@@ -1,0 +1,974 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pt_BR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-31 14:27+0700\n"
+"PO-Revision-Date: 2015-08-09 21:24-0300\n"
+"Last-Translator: info@hercules-design.com\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ../404.php:16
+msgid "404 Page"
+msgstr ""
+
+# @ BuzzBlog
+#: ../404.php:17
+msgid "Error"
+msgstr "Erro"
+
+# @ BuzzBlog
+#: ../404.php:17
+msgid "Not Found"
+msgstr "Não Encontrado"
+
+#: ../404.php:25
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps options "
+"below will help."
+msgstr ""
+"Desculpas, mas a página solicitada não pôde ser encontrado. Talvez opções "
+"abaixo vai ajudar."
+
+#: ../404.php:28 ../template-sitemap.php:67
+msgid "Monthly Archive"
+msgstr "Arquivos Mensais"
+
+#: ../404.php:33 ../template-sitemap.php:71
+msgid "Recent Post"
+msgstr "Posts Recentes"
+
+# @ BuzzBlog
+#: ../404.php:38
+msgid "Categories"
+msgstr "Categorias"
+
+# @ BuzzBlog
+#: ../404.php:43 ../template-sitemap.php:60
+#: ../includes/widgets/aot-tabbed.php:84
+msgid "Tags"
+msgstr ""
+
+# @ BuzzBlog
+#: ../archive.php:17 ../author.php:22
+msgid "Archives"
+msgstr "Arquivos"
+
+# @ BuzzBlog
+#: ../archive.php:20
+msgid "Daily Archives"
+msgstr "Arquivos Diários"
+
+# @ BuzzBlog
+#: ../archive.php:22
+msgid "Monthly Archives"
+msgstr "Arquivos Mensais"
+
+# @ BuzzBlog
+#: ../archive.php:24
+msgid "Yearly Archives"
+msgstr "Arquivos Anuais"
+
+#: ../archive.php:26
+msgid "All Archives"
+msgstr "Todos os artigos"
+
+# @ BuzzBlog
+#: ../author.php:24
+msgid "Recent Posts by"
+msgstr "Posts recentes por:"
+
+# @ BuzzBlog
+#: ../author.php:39
+msgid "Recent Comments by"
+msgstr "Comentários recentes por"
+
+# @ BuzzBlog
+#: ../author.php:44
+#, php-format
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ../author.php:46
+msgid "No comments by "
+msgstr "Nenhum comentário de"
+
+#: ../category.php:18
+msgid "Category Archives:"
+msgstr "Arquivos da Categoria:"
+
+# @ BuzzBlog
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+# @ BuzzBlog
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:11
+msgid "No Responses"
+msgstr "Seja o Primeiro a Comentar:"
+
+#: ../comments.php:11
+msgid "One Response"
+msgstr "Uma Resposta"
+
+#: ../comments.php:11
+msgid "Responses"
+msgstr "Respostas"
+
+#: ../comments.php:22
+msgid "Be the First!"
+msgstr "Seja o primeiro!"
+
+# @ BuzzBlog
+#: ../comments.php:25
+msgid "Comments are closed."
+msgstr "Comentários estão fechados."
+
+# @ BuzzBlog
+#: ../comments.php:32
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Leave a Reply to"
+msgstr ""
+
+#: ../comments.php:37 ../template-restrict.php:51
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:37 ../template-restrict.php:51
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:37
+msgid "to post a comment"
+msgstr ""
+
+# @ BuzzBlog
+#: ../comments.php:41
+msgid "Logged in as"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:51 ../cores/core-functions.php:811
+#: ../cores/core-functions.php:843
+msgid "said:"
+msgstr ""
+
+#: ../comments.php:56
+msgid "Submit Comment!"
+msgstr ""
+
+#: ../comments.php:93
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:94
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../footer.php:33
+msgid "Switch to Desktop"
+msgstr ""
+
+#: ../header.php:12
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: ../header.php:47
+msgid "Type a keyword..."
+msgstr "Digite uma palavra-chave ..."
+
+# @ BuzzBlog
+#: ../header.php:48 ../searchform.php:4
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../header.php:65
+msgid "Open Menu"
+msgstr ""
+
+#: ../header.php:73
+msgid "Jump to random post"
+msgstr ""
+
+#: ../header.php:76
+msgid "Open search"
+msgstr ""
+
+#: ../header.php:112
+msgid "Tap or Click to Open Menu"
+msgstr ""
+
+#: ../loop.php:21 ../loop.php:63 ../modules/composer.php:309
+msgid "Read more"
+msgstr ""
+
+#: ../loop.php:40
+msgid "Read More!"
+msgstr ""
+
+# @ BuzzBlog
+#: ../loop.php:79
+msgid "There has been an error."
+msgstr ""
+
+#: ../loop.php:80
+msgid ""
+"We apologize for any inconvenience, please hit back on your browser or use "
+"the search form below."
+msgstr ""
+
+#: ../search.php:18
+msgid "Search Result:"
+msgstr "Resultado da Procura:"
+
+#: ../searchform.php:3
+msgid "Search Here..."
+msgstr "Pesquise aqui…"
+
+#: ../sidebar.php:11 ../sidebar.php:29 ../sidebar.php:47 ../sidebar.php:57
+#: ../sidebar.php:67 ../sidebar.php:77 ../sidebar.php:84
+msgid "No Widget."
+msgstr ""
+
+#: ../tag.php:18
+msgid "Tag Archives:"
+msgstr ""
+
+#: ../template-authors.php:38 ../modules/authorbox.php:15
+msgid "Author's Avatar"
+msgstr ""
+
+#: ../template-authors.php:48 ../includes/widgets/aot-author.php:84
+msgid "This User does not has any information to display :("
+msgstr ""
+
+#: ../template-login.php:51
+msgid "You are already in..."
+msgstr ""
+
+#: ../template-restrict.php:51
+msgid " to view this page."
+msgstr ""
+
+#: ../template-sitemap.php:50
+msgid "Posts published since we online"
+msgstr ""
+
+# @ BuzzBlog
+#: ../template-sitemap.php:56
+msgid "Category"
+msgstr "Categoria"
+
+#: ../template-timeline.php:73
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../cores/core-default.php:34
+msgid "GET OFF MY LAWN !! RIGHT NOW !!"
+msgstr ""
+
+#: ../cores/core-default.php:82
+msgid "See me There!"
+msgstr ""
+
+#: ../cores/core-default.php:106
+msgid "Breaking News"
+msgstr ""
+
+#: ../cores/core-default.php:141
+msgid "About The Author:"
+msgstr "Sobre o Autor: "
+
+# @ BuzzBlog
+#: ../cores/core-default.php:144
+msgid "Related Posts"
+msgstr ""
+
+#: ../cores/core-default.php:180
+msgid "The requested content cannot be loaded. Please try again later."
+msgstr ""
+
+#: ../cores/core-functions.php:339
+msgid "Use Wordpress menu builder to build menus"
+msgstr ""
+
+#: ../cores/core-functions.php:448 ../cores/core-functions.php:456
+#: ../modules/pg-meta.php:17
+msgid "Pageviews"
+msgstr "Visualizações"
+
+#: ../cores/core-functions.php:449 ../cores/core-functions.php:457
+msgid "QR Code"
+msgstr ""
+
+#: ../cores/core-functions.php:450 ../cores/core-functions.php:458
+#: ../cores/core-functions.php:481 ../modules/featured.php:35
+msgid "Enlarge"
+msgstr "Aumente"
+
+#: ../cores/core-functions.php:483
+msgid "Image is unavailable"
+msgstr "Imagem não está disponível"
+
+#: ../cores/core-functions.php:495
+msgid "View all: "
+msgstr "Exibir Todos:"
+
+#: ../cores/core-functions.php:593
+msgid " Continue Reading &raquo;"
+msgstr "Continuar lendo &raquo;"
+
+#: ../cores/core-functions.php:748
+msgid "No Comments"
+msgstr ""
+
+#: ../cores/core-functions.php:750
+msgid "Be First!"
+msgstr ""
+
+# @ BuzzBlog
+#: ../cores/core-functions.php:754
+msgid "Comments"
+msgstr "Comentários"
+
+#: ../cores/core-functions.php:757
+msgid "Comment"
+msgstr "Comentário"
+
+#: ../cores/core-functions.php:761
+msgid "Closed"
+msgstr "Fechado"
+
+# @ BuzzBlog
+#: ../cores/core-functions.php:813 ../cores/core-functions.php:844
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: ../cores/core-functions.php:813 ../cores/core-functions.php:844
+msgid "(Edit)"
+msgstr ""
+
+# @ BuzzBlog
+#: ../cores/core-functions.php:816 ../cores/core-functions.php:847
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: ../cores/core-functions.php:1000 ../cores/core-functions.php:1022
+#, php-format
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: ../cores/core-functions.php:1190
+msgid "Please configure your Twitter OAuth or Twitter ID"
+msgstr ""
+
+#: ../cores/core-init.php:1200
+msgid "Insert into Post"
+msgstr ""
+
+#: ../cores/core-init.php:1200
+msgid "Use this image"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:153 ../cores/core-shortcodes.php:792
+#: ../cores/core-shortcodes.php:799
+msgid "Close Notfication"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:743
+msgid "Please enter your name."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:749
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:752
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:758
+msgid "Please enter a message."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:768
+msgid "Please fill the correct captcha"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:792
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:799
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: ../cores/core-shortcodes.php:806
+msgid "Your Name"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:817
+msgid "Your Email Address"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:827
+msgid "Message or Feedback"
+msgstr ""
+
+#: ../cores/core-shortcodes.php:843
+msgid "Send Email!"
+msgstr ""
+
+#: ../cores/core-slides.php:18 ../cores/core-slides.php:19
+msgid "Add New Slide"
+msgstr ""
+
+#: ../cores/core-slides.php:20
+msgid "Edit Slide"
+msgstr ""
+
+#: ../cores/core-slides.php:21
+msgid "New Slide"
+msgstr ""
+
+#: ../cores/core-slides.php:22
+msgid "View Slide"
+msgstr ""
+
+#: ../cores/core-slides.php:23
+msgid "Search Slides"
+msgstr ""
+
+#: ../cores/core-slides.php:24 ../cores/core-slides.php:25
+#: ../cores/core-slides.php:26 ../cores/core-slides.php:33
+msgid "Slide"
+msgstr ""
+
+# @ BuzzBlog
+#: ../cores/core-slides.php:27
+msgid "Slides"
+msgstr ""
+
+#: ../framework/core-panel-ui.php:3583
+msgid "Update Fonts List"
+msgstr ""
+
+#: ../framework/core-panel-ui.php:3587
+msgid "Delete Fonts List"
+msgstr ""
+
+#: ../includes/widgets/aot-author.php:30
+msgid "About"
+msgstr "Sobre"
+
+#: ../includes/widgets/aot-category.php:30
+msgid "Posts By Category"
+msgstr ""
+
+#: ../includes/widgets/aot-comment.php:101
+msgid "Show Comment"
+msgstr ""
+
+#: ../includes/widgets/aot-counter.php:274
+msgid "Please enter correct Dribbble page url!"
+msgstr ""
+
+#: ../includes/widgets/aot-login.php:76
+msgid "Avatar"
+msgstr ""
+
+#: ../includes/widgets/aot-login.php:82 ../includes/widgets/aot-login.php:92
+msgid "Edit Profile"
+msgstr ""
+
+#: ../includes/widgets/aot-login.php:93
+msgid "Logout!"
+msgstr ""
+
+#: ../includes/widgets/aot-mailchimp.php:102
+msgid "Your e-mail address"
+msgstr ""
+
+#: ../includes/widgets/aot-subscribe.php:99
+msgid "Supported by"
+msgstr ""
+
+#: ../includes/widgets/aot-tabbed.php:82
+msgid "Recent"
+msgstr "Recentes"
+
+#: ../includes/widgets/aot-tabbed.php:83
+msgid "Popular"
+msgstr "Populares"
+
+#: ../modules/authorbox.php:25
+msgid "This User does not has any information to display."
+msgstr ""
+
+#: ../modules/breadcrumbs.php:8
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: ../modules/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../modules/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Artigo Tagged \"%s\""
+
+#: ../modules/breadcrumbs.php:11
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../modules/breadcrumbs.php:12
+msgid "Error 404"
+msgstr "Erro 404"
+
+# @ BuzzBlog
+#: ../modules/breadcrumbs.php:119 ../modules/pg-meta.php:13
+msgid "Page"
+msgstr "Página"
+
+#: ../modules/columns.php:7
+msgid "No widget activated. Please configure!"
+msgstr ""
+
+# @ BuzzBlog
+#: ../modules/composer.php:239
+msgid "Tabs"
+msgstr ""
+
+#: ../modules/composer.php:378
+msgid "Recent Tweet by:"
+msgstr ""
+
+#: ../modules/composer.php:381
+msgid "Follow"
+msgstr "Seguir"
+
+#: ../modules/composer.php:399 ../modules/composer.php:400
+#: ../modules/composer.php:401 ../modules/featured.php:76
+#: ../modules/featured.php:77
+msgid "Unknown"
+msgstr ""
+
+# @ BuzzBlog
+#: ../modules/featured.php:33
+msgid "Permalink"
+msgstr ""
+
+#: ../modules/featured.php:34
+msgid "Download"
+msgstr ""
+
+#: ../modules/forecast.php:142 ../modules/forecast.php:148
+msgid "Something went wrong with the connection!"
+msgstr ""
+
+#: ../modules/forecast.php:151
+msgid "This option doesn't work on localhost!"
+msgstr ""
+
+#: ../modules/forecast.php:155
+msgid "Please set up your API key!"
+msgstr ""
+
+#: ../modules/login.php:10
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: ../modules/login.php:11
+msgid "Password"
+msgstr "Senha"
+
+#: ../modules/login.php:13
+msgid "Remember Me"
+msgstr ""
+
+#: ../modules/login.php:14
+msgid "Log in"
+msgstr ""
+
+#: ../modules/login.php:19
+msgid "Lost password?"
+msgstr ""
+
+#: ../modules/pagination.php:9
+msgid "Next Posts &raquo;"
+msgstr "Próximo &raquo;"
+
+#: ../modules/pagination.php:10
+msgid "&laquo; Previous Posts"
+msgstr "&laquo; Anterior"
+
+#: ../modules/pagination.php:27
+msgid "Page "
+msgstr ""
+
+#: ../modules/pagination.php:28
+msgid "&laquo; First"
+msgstr "&laquo; Primeiro"
+
+#: ../modules/pagination.php:29
+msgid "&lsaquo; Previous"
+msgstr "&lsaquo; Anterior"
+
+#: ../modules/pagination.php:37
+msgid "Next &rsaquo;"
+msgstr "Próximo &rsaquo;"
+
+#: ../modules/pagination.php:38
+msgid "Last &raquo;"
+msgstr "Ultimo &raquo;"
+
+#: ../modules/pg-meta.php:18
+msgid "with"
+msgstr ""
+
+#: ../modules/pg-meta.php:21
+msgid "Print this Article"
+msgstr "Imprimir"
+
+# @ BuzzBlog
+#: ../modules/pg-meta.php:22
+msgid "Font Size"
+msgstr "Tamanho Fonte"
+
+#: ../modules/related.php:61
+msgid "There are no Related Post in Query"
+msgstr ""
+
+#: ../modules/review.php:10
+msgid "Editor's Rating"
+msgstr ""
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s instalado e ativado com sucesso."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s instalado com sucesso."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Activate"
+#~ msgstr "Ativar"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "All installations and activations have been completed."
+#~ msgstr "Todas as instalações e ativações foram concluídas."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "All installations have been completed."
+#~ msgstr "Todas as instalações foram completadas."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "All plugins installed and activated successfully. %1$s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+#~ msgstr ""
+#~ "Um erro ocorreu durante a instalação de %1$s: <strong>%2$s</strong>."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Date"
+#~ msgstr "Data"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Dismiss this notice"
+#~ msgstr "Ignorar este aviso"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "External Link"
+#~ msgstr "Link Externo"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Footer Menu"
+#~ msgstr "Menu do Rodapé"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "General"
+#~ msgstr "Geral"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Hide Details"
+#~ msgstr "Ocultar detalhes"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Icons"
+#~ msgstr "Icones"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Install"
+#~ msgstr "Instalar"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Install Plugins"
+#~ msgstr "Instalar Plugins"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Install Required Plugins"
+#~ msgstr "Instalar Plugins Necessários"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Install package not available."
+#~ msgstr "Instale um pacote não disponível."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Installing Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Installing Plugin: %s"
+#~ msgstr "Instalando o plugin: %s"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+#~ msgstr "Instalando e Ativando o Plugin %1$s (%2$d/%3$d)"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instalando o plugin&#8230;"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Leave a comment"
+#~ msgstr "Deixe um comentário"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Not Installed"
+#~ msgstr "Não Instalado"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Pages:"
+#~ msgstr "Páginas:"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Plugin"
+#~ msgstr "Plugin"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Plugin activated successfully."
+#~ msgstr "O Plugin foi ativado com sucesso."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Plugin activation failed."
+#~ msgstr "Ativação do plugin falhou."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Plugin install failed."
+#~ msgstr "A Instalação do plugin falhou."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin instalado com sucesso."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Pre-Packaged"
+#~ msgstr "Pré-compactado"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Preview"
+#~ msgstr "Pré-Visualizar"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Private Repository"
+#~ msgstr "Repositório Privado"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Recent Posts"
+#~ msgstr "Recentes"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Recommended"
+#~ msgstr "Recomendado"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Required"
+#~ msgstr "Necessário"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Return to Required Plugins Installer"
+#~ msgstr "Voltar para instalar os plugins necessários"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Voltar para o Painel"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Show Details"
+#~ msgstr "Mostrar Detalhes"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Sidebar"
+#~ msgstr "Barra Lateral"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Source"
+#~ msgstr "Fonte"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Status"
+#~ msgstr "Estatus"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "The following plugin was activated successfully: %s."
+#~ msgstr "O seguinte Plugin foi ativado com sucesso: %s."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid ""
+#~ "The installation and activation process is starting. This process may "
+#~ "take a while on some hosts, so please be patient."
+#~ msgstr ""
+#~ "O processo de instalação e ativação está começando. Este processo pode "
+#~ "demorar um pouco em alguns provedores, por favor seja paciente."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "The installation of %1$s failed."
+#~ msgstr "A intalação de %1$s falhou."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid ""
+#~ "The installation process is starting. This process may take a while on "
+#~ "some hosts, so please be patient."
+#~ msgstr ""
+#~ "O processo de instalação foi iniciado. Este processo pode demorar um "
+#~ "pouco em alguns servidores, por favor seja paciente."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Title"
+#~ msgstr "Título"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Title:"
+#~ msgstr "Título:"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Descompactando o pacote&#8230;"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Upload"
+#~ msgstr "Upload"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Website"
+#~ msgstr "Site"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "WordPress Repository"
+#~ msgstr "Repositório WordPress"
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "Something went wrong with the plugin API."
+#~ msgstr "Algo deu errado com a API do plugin."
+
+# @ BuzzBlog
+#, fuzzy
+#~ msgid "All plugins installed and activated successfully. %s"
+#~ msgstr "Todos os plugins instalados e ativados com sucesso. %s"
