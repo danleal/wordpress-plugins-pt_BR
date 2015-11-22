@@ -1,0 +1,1428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ADAI Blog\n"
+"POT-Creation-Date: 2015-11-06 05:15-0300\n"
+"PO-Revision-Date: 2015-11-06 05:16-0300\n"
+"Last-Translator: \n"
+"Language-Team: Braising <wordpress@braising.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:6
+msgid "Sorry, the page you asked for couldn't be found."
+msgstr ""
+
+#: 404.php:7
+msgid ""
+"If you're in denial and believe this is a conspiracy that can't possibly be "
+"true, please try using the search form below."
+msgstr ""
+
+#: 404.php:12 search.php:27
+msgid "Search"
+msgstr "Procurar"
+
+#: admin/metabox/page_meta.php:6
+msgid "Page Settings"
+msgstr ""
+
+#: admin/metabox/page_meta.php:13
+msgid "Normal Page or Page with sidebar"
+msgstr ""
+
+#: admin/metabox/page_meta.php:14
+msgid "Show full width content or with sidebar"
+msgstr ""
+
+#: admin/metabox/page_meta.php:18
+msgid "Normal Page"
+msgstr ""
+
+#: admin/metabox/page_meta.php:22
+msgid "Page without sidebar"
+msgstr ""
+
+#: admin/metabox/page_meta.php:30 admin/metabox/post_type.php:193
+msgid "Disable Share Buttons"
+msgstr ""
+
+#: admin/metabox/page_meta.php:37
+msgid "Disable Comments"
+msgstr ""
+
+#: admin/metabox/post_type.php:13
+msgid "Post Subtitle"
+msgstr ""
+
+#: admin/metabox/post_type.php:20
+msgid "Choose Type of Post"
+msgstr ""
+
+#: admin/metabox/post_type.php:25
+msgid "Regular"
+msgstr "Regular"
+
+#: admin/metabox/post_type.php:30
+msgid "Gallery"
+msgstr "Galeria"
+
+#: admin/metabox/post_type.php:35
+msgid "Review"
+msgstr ""
+
+#: admin/metabox/post_type.php:47
+msgid "Gallery Post"
+msgstr ""
+
+#: admin/metabox/post_type.php:57
+msgid "Image"
+msgstr "Imagem"
+
+#: admin/metabox/post_type.php:62
+msgid "Add Image"
+msgstr ""
+
+#: admin/metabox/post_type.php:67
+msgid "Image Caption"
+msgstr ""
+
+#: admin/metabox/post_type.php:79
+msgid "Review Post"
+msgstr ""
+
+#: admin/metabox/post_type.php:88
+msgid "Overal Score"
+msgstr ""
+
+#: admin/metabox/post_type.php:96
+msgid "Review Heading"
+msgstr ""
+
+#: admin/metabox/post_type.php:97
+msgid "Short review heading (e.g. Excellent!)"
+msgstr ""
+
+#: admin/metabox/post_type.php:102
+msgid "Review Info"
+msgstr ""
+
+#: admin/metabox/post_type.php:103
+msgid "Short review info"
+msgstr ""
+
+#: admin/metabox/post_type.php:109
+msgid "Review Criterias"
+msgstr ""
+
+#: admin/metabox/post_type.php:114 short-comments.php:35
+msgid "Name"
+msgstr "Nome"
+
+#: admin/metabox/post_type.php:119
+msgid "Score"
+msgstr ""
+
+#: admin/metabox/post_type.php:132
+msgid "Normal Post or Full width"
+msgstr ""
+
+#: admin/metabox/post_type.php:133
+msgid ""
+"If you choose full width post your featured image, video or gallery will "
+"automatically become full width as well."
+msgstr ""
+
+#: admin/metabox/post_type.php:138
+msgid "Normal Post"
+msgstr ""
+
+#: admin/metabox/post_type.php:142
+msgid "Full Width Post without sidebar"
+msgstr ""
+
+#: admin/metabox/post_type.php:149
+msgid "Featured Post?"
+msgstr ""
+
+#: admin/metabox/post_type.php:150
+msgid ""
+"Check this box if you want to add this post to the featured posts. Once you "
+"have checked the box, head over to the Theme Options > Homepage Options and "
+"add the post to the slider or featured area."
+msgstr ""
+
+#: admin/metabox/post_type.php:157
+msgid "Featured Data"
+msgstr ""
+
+#: admin/metabox/post_type.php:166
+msgid "Custom Image"
+msgstr ""
+
+#: admin/metabox/post_type.php:167
+msgid ""
+"If you leave this blank the theme will use the featured image you chose for "
+"the post"
+msgstr ""
+
+#: admin/metabox/post_type.php:172
+msgid "Custom Title"
+msgstr ""
+
+#: admin/metabox/post_type.php:173
+msgid ""
+"If you leave this blank the theme will use the post title you gave this post"
+msgstr ""
+
+#: admin/metabox/post_type.php:178
+msgid "Add transparent black background under slider text"
+msgstr ""
+
+#: admin/metabox/post_type.php:186
+msgid "Disable Related posts"
+msgstr ""
+
+#: admin/option/option.php:9 admin/option/option.php:15
+msgid "General Options"
+msgstr "Opções gerais"
+
+#: admin/option/option.php:20
+msgid "Favicon Upload"
+msgstr ""
+
+#: admin/option/option.php:21
+msgid "Upload your Favicon"
+msgstr ""
+
+#: admin/option/option.php:34
+msgid "NiceScroll"
+msgstr ""
+
+#: admin/option/option.php:35
+msgid "Enable/Disable exchange for browser scrollbar"
+msgstr ""
+
+#: admin/option/option.php:41
+msgid "Analytics Code"
+msgstr ""
+
+#: admin/option/option.php:42
+msgid "Enter your Analytics code eg. from Google Analytics"
+msgstr ""
+
+#: admin/option/option.php:50
+msgid "Advertising Options"
+msgstr ""
+
+#: admin/option/option.php:55
+msgid "Ads number"
+msgstr ""
+
+#: admin/option/option.php:56
+msgid "Show Advertising after each (number) post"
+msgstr ""
+
+#: admin/option/option.php:65
+msgid "Logo and Header"
+msgstr ""
+
+#: admin/option/option.php:71
+msgid "Logo Options"
+msgstr ""
+
+#: admin/option/option.php:76 admin/option/option.php:83
+msgid "Upload Logo"
+msgstr "Carregar Logo"
+
+#: admin/option/option.php:77
+msgid "Upload your logo."
+msgstr ""
+
+#: admin/option/option.php:84
+msgid ""
+"Upload your logo for other pages where he will be shown over the image or "
+"other darker background color."
+msgstr ""
+
+#: admin/option/option.php:90
+msgid "Logo Horizontally position"
+msgstr ""
+
+#: admin/option/option.php:91
+msgid "Move logo horizontally left or right"
+msgstr ""
+
+#: admin/option/option.php:100
+msgid "Logo Vertically position"
+msgstr ""
+
+#: admin/option/option.php:101
+msgid "Move logo vertically top or bottom"
+msgstr ""
+
+#: admin/option/option.php:112
+msgid "Featured Options"
+msgstr ""
+
+#: admin/option/option.php:118
+msgid "Featured Area Options"
+msgstr ""
+
+#: admin/option/option.php:124
+msgid "Posts"
+msgstr "Postagens"
+
+#: admin/option/option.php:125
+msgid "Display the posts in featured area slider"
+msgstr ""
+
+#: admin/option/option.php:138
+msgid "Exclude featured posts from content posts loop"
+msgstr ""
+
+#: admin/option/option.php:139
+msgid ""
+"Set this to on if you want to exclude your featured posts in the posts loop"
+msgstr ""
+
+#: admin/option/option.php:145
+msgid "Upload Author Featured Image"
+msgstr ""
+
+#: admin/option/option.php:146
+msgid "Upload image which will be hero image on your author page"
+msgstr ""
+
+#: admin/option/option.php:152
+msgid "Author Hero text color"
+msgstr ""
+
+#: admin/option/option.php:153
+msgid "Choose the hero section color"
+msgstr ""
+
+#: admin/option/option.php:162
+msgid "Footer Options"
+msgstr "Opções de Rodapé"
+
+#: admin/option/option.php:180
+msgid "Upload Popular Posts Image"
+msgstr ""
+
+#: admin/option/option.php:181
+msgid "Upload image which will be over your popular posts section"
+msgstr ""
+
+#: admin/option/option.php:187
+msgid "Footer Bottom Text"
+msgstr ""
+
+#: admin/option/option.php:188
+msgid "Enter your copyright text or whatever you want right here."
+msgstr ""
+
+#: admin/option/option.php:189
+msgid "&copy; 2013 weekly, Inc. All rights reserved."
+msgstr ""
+
+#: admin/option/option.php:196
+msgid "Upload Footer Logo"
+msgstr ""
+
+#: admin/option/option.php:197
+msgid "Upload your footer logo"
+msgstr ""
+
+#: admin/option/option.php:205
+msgid "Appearance Options"
+msgstr ""
+
+#: admin/option/option.php:211
+msgid "General Appearance"
+msgstr ""
+
+#: admin/option/option.php:216
+msgid "Main link Color"
+msgstr ""
+
+#: admin/option/option.php:217
+msgid "Choose the main link color"
+msgstr ""
+
+#: admin/option/option.php:224
+msgid "Main Navigation Appearance"
+msgstr ""
+
+#: admin/option/option.php:229
+msgid "Main Menu Title Color"
+msgstr ""
+
+#: admin/option/option.php:230
+msgid "Choose the main menu title color"
+msgstr ""
+
+#: admin/option/option.php:236
+msgid "Navigation Link Color"
+msgstr "Navigation Cor do link"
+
+#: admin/option/option.php:237
+msgid "Choose the color of your navigation links"
+msgstr ""
+
+#: admin/option/option.php:243
+msgid "Navigation Link Hover Color"
+msgstr ""
+
+#: admin/option/option.php:244
+msgid "Choose the hover color of your navigation links"
+msgstr ""
+
+#: admin/option/option.php:250
+msgid "Navigation Link Hover Background"
+msgstr ""
+
+#: admin/option/option.php:251
+msgid "Choose the hover background of your navigation links"
+msgstr ""
+
+#: admin/option/option.php:257
+msgid "Navigation Sublink Color"
+msgstr ""
+
+#: admin/option/option.php:258
+msgid "Choose the color of your sublinks"
+msgstr ""
+
+#: admin/option/option.php:264
+msgid "Navigation Sublink Hover Color"
+msgstr ""
+
+#: admin/option/option.php:265
+msgid "Choose the hover color of your sublinks"
+msgstr ""
+
+#: admin/option/option.php:271
+msgid "Navigation Sublink Hover Background"
+msgstr ""
+
+#: admin/option/option.php:272
+msgid "Choose the hover background of your sublinks"
+msgstr ""
+
+#: admin/option/option.php:279
+msgid "Footer Appearance"
+msgstr ""
+
+#: admin/option/option.php:284
+msgid "Footer Background Color"
+msgstr "Cor rodapé Background"
+
+#: admin/option/option.php:285
+msgid "Choose the background color for the footer"
+msgstr ""
+
+#: admin/option/option.php:291
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/option/option.php:292
+msgid "Choose the footer text color"
+msgstr ""
+
+#: admin/option/option.php:298
+msgid "Footer Menu Background Color"
+msgstr ""
+
+#: admin/option/option.php:299
+msgid "Choose the footer menu section background color"
+msgstr ""
+
+#: admin/option/option.php:305
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/option/option.php:306
+msgid "Choose the footer link color"
+msgstr ""
+
+#: admin/option/option.php:312
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: admin/option/option.php:313
+msgid "Choose the footer hover link color"
+msgstr ""
+
+#: admin/option/option.php:322
+msgid "Fonts Options"
+msgstr ""
+
+#: admin/option/option.php:328
+msgid "Navigation Font"
+msgstr ""
+
+#: admin/option/option.php:333
+msgid "Main Font"
+msgstr ""
+
+#: admin/option/option.php:334
+msgid "Font for content text and widget text"
+msgstr ""
+
+#: admin/option/option.php:347
+msgid "Headings Font"
+msgstr ""
+
+#: admin/option/option.php:348
+msgid "Font for headings and category text"
+msgstr ""
+
+#: admin/option/option.php:361
+msgid "Widget Titles Font"
+msgstr ""
+
+#: admin/option/option.php:362
+msgid "Font for widget headings"
+msgstr ""
+
+#: admin/option/option.php:377 admin/option/option.php:383
+#: admin/option/option.php:388
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: admin/option/option.php:389
+msgid "Write your custom CSS here"
+msgstr ""
+
+#: author.php:12
+msgid "Show "
+msgstr ""
+
+#: category.php:21
+msgid "Subcategories"
+msgstr "Subcategorias"
+
+#: content.php:73
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content.php:79 extensions/widgets/tab_content_widget.php:102
+msgid "Continue reading"
+msgstr "Continue lendo"
+
+#: extensions/comments.php:14
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: extensions/comments.php:14 extensions/comments.php:50
+msgid "Edit"
+msgstr "Editar"
+
+#. translators: 1: comment author, 2: date and time
+#: extensions/comments.php:31 extensions/comments.php:44
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: extensions/comments.php:42
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está em moderação."
+
+#. translators: 1: date, 2: time
+#: extensions/comments.php:48
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: extensions/comments.php:48
+msgid "F jS, Y"
+msgstr ""
+
+#: extensions/comments.php:48
+msgid "G:i"
+msgstr ""
+
+#: extensions/comments.php:57
+msgid "Reply"
+msgstr "Deixar uma resposta para %s"
+
+#: extensions/contact-script.php:19
+msgid "Please enter your email address."
+msgstr ""
+
+#: extensions/contact-script.php:22
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: extensions/contact-script.php:25
+msgid "Successful subscribed!"
+msgstr ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:164
+#: extensions/required_plugins/required_plugins.php:112
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:165
+#: extensions/required_plugins/required_plugins.php:113
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:166
+#: extensions/required_plugins/required_plugins.php:114
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugins: %s"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr "Algo está errado."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:168
+#: extensions/required_plugins/required_plugins.php:116
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:169
+#: extensions/required_plugins/required_plugins.php:117
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:170
+#: extensions/required_plugins/required_plugins.php:118
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:171
+#: extensions/required_plugins/required_plugins.php:119
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:172
+#: extensions/required_plugins/required_plugins.php:120
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:173
+#: extensions/required_plugins/required_plugins.php:121
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:174
+#: extensions/required_plugins/required_plugins.php:122
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:175
+#: extensions/required_plugins/required_plugins.php:123
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:176
+#: extensions/required_plugins/required_plugins.php:124
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:177
+#: extensions/required_plugins/required_plugins.php:125
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:178
+#: extensions/required_plugins/class-tgm-plugin-activation.php:490
+#: extensions/required_plugins/required_plugins.php:126
+msgid "Return to Required Plugins Installer"
+msgstr "Retornar ao instalador dos plugins requeridos"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:179
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1846
+#: extensions/required_plugins/required_plugins.php:127
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins foram instalados e ativados com sucesso. %1$s"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:517
+#: extensions/required_plugins/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr "Voltar ao Painel de Controle"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr "O seguinte plugin foi ativado com sucesso: %s."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr "Esconder essa notificação"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr "Link Externo"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr "Repositório Privado"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr "Obrigatório"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Nenhum plugin para instalar ou ativar. <a href=\"%1$s\" title=\"Voltar ao "
+"painel de controle\">Voltar ao painel de controle</a>"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr "Plugin"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr "Fonte"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr "Tipo"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr "Status"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr "Instalar"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr "Ativar"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1544
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr "Pacote de instalação não disponível."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Baixando o pacote de instalação de <span class=\"code\">%s</span>&#8230;"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr "Descompactado o plugin&#8230;"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando o plugin&#8230;"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr "Falha na instalação do plugin."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado com sucesso."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr "A ativação do plugin falhou."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"O processo de instalação e ativação iniciou. Esse processo pode demorar um "
+"pouco em alguns servidores, então tenha paciência."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1956
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr "Exibir Detalhes"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1956
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr "Esconder Detalhes"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram finalizadas."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e Ativando o Plugin %1$s (%2$d/%3$d)"
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"O processo de instalação iniciou. Esse processo pode demorar um pouco em "
+"alguns servidores, então tenha paciência."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro durante a instalação %1$s: <strong>%2$s</strong>."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram finalizadas."
+
+#: extensions/required_plugins/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: extensions/required_plugins/required_plugins.php:115
+msgid "Something went wrong with the plugin API."
+msgstr "Algo de errado com a API do plugin."
+
+#: extensions/required_plugins/required_plugins.php:128
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos os plugins foram instalados e ativados com sucesso. %s"
+
+#: extensions/widgets/ad_widget.php:14
+msgid "Arbitrary text or HTML for you ad"
+msgstr ""
+
+#: extensions/widgets/ad_widget.php:32
+msgid "ADVERTISEMENT"
+msgstr ""
+
+#: extensions/widgets/ad_widget.php:56 extensions/widgets/comments_list.php:32
+#: extensions/widgets/newsletter_widget.php:30
+#: extensions/widgets/popular_posts.php:27
+#: extensions/widgets/post_widget.php:32
+#: extensions/widgets/tab_content_widget.php:143
+#: extensions/widgets/video_section_widget.php:149
+msgid "Title:"
+msgstr "Título:"
+
+#: extensions/widgets/ad_widget.php:61
+msgid "Automatically add paragraphs"
+msgstr "Adicionar parágrafos automaticamente"
+
+#: extensions/widgets/comments_list.php:18
+msgid "Show most recent coments in vertlical slideshow"
+msgstr ""
+
+#: extensions/widgets/comments_list.php:35
+msgid "Number of comments to show:"
+msgstr ""
+
+#: extensions/widgets/comments_list.php:38
+msgid "Widget height:"
+msgstr ""
+
+#: extensions/widgets/comments_list.php:76
+msgid "Recent Comments"
+msgstr "Comentários Recentes"
+
+#: extensions/widgets/facebook_widget.php:14
+msgid "A widget that displays a Facebook Like Box"
+msgstr ""
+
+#: extensions/widgets/facebook_widget.php:18
+msgid "Facebook Like Box ( weekly - sidebar )"
+msgstr ""
+
+#: extensions/widgets/newsletter_widget.php:13
+msgid "Newsletter form widget"
+msgstr ""
+
+#: extensions/widgets/newsletter_widget.php:34
+msgid "Description:"
+msgstr ""
+
+#: extensions/widgets/newsletter_widget.php:38
+msgid "Input placeholder text:"
+msgstr ""
+
+#: extensions/widgets/newsletter_widget.php:39
+#: extensions/widgets/newsletter_widget.php:72
+msgid "Enter your email"
+msgstr "Digite seu e-mail"
+
+#: extensions/widgets/newsletter_widget.php:42
+msgid "Form button text:"
+msgstr ""
+
+#: extensions/widgets/newsletter_widget.php:43
+#: extensions/widgets/newsletter_widget.php:74
+msgid "Submit"
+msgstr "Enviar"
+
+#: extensions/widgets/popular_posts.php:13
+msgid "Show most popular posts"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:31
+#: extensions/widgets/post_widget.php:36
+#: extensions/widgets/video_section_widget.php:153
+msgid "How much posts want to show?:"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:35
+#: extensions/widgets/post_widget.php:40
+#: extensions/widgets/video_section_widget.php:158
+msgid "Choose category:"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:45
+#: extensions/widgets/post_widget.php:49
+#: extensions/widgets/video_section_widget.php:168
+msgid "Post Types:"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:47
+#: extensions/widgets/post_widget.php:51
+msgid "all"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:48
+#: extensions/widgets/post_widget.php:52
+#: extensions/widgets/video_section_widget.php:171
+msgid "regular"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:49
+#: extensions/widgets/post_widget.php:53
+msgid "video"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:50
+#: extensions/widgets/post_widget.php:54
+#: extensions/widgets/video_section_widget.php:172
+msgid "gallery"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:51
+#: extensions/widgets/post_widget.php:55
+#: extensions/widgets/video_section_widget.php:173
+msgid "review"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:52
+#: extensions/widgets/post_widget.php:56
+msgid "music"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:56
+#: extensions/widgets/post_widget.php:60
+msgid "Exclude Featured Posts:"
+msgstr ""
+
+#: extensions/widgets/popular_posts.php:130
+msgid "comments"
+msgstr "comentários"
+
+#: extensions/widgets/popular_posts.php:148
+msgid "No Comments"
+msgstr "Sem comentários"
+
+#: extensions/widgets/popular_posts.php:150
+msgid " Comments"
+msgstr "Comentários"
+
+#: extensions/widgets/popular_posts.php:152
+msgid "1 Comment"
+msgstr "Um comentário"
+
+#: extensions/widgets/popular_posts.php:156
+msgid "Reading More"
+msgstr ""
+
+#: extensions/widgets/post_widget.php:18
+msgid "Show Last Post from any Category and Post type"
+msgstr ""
+
+#: extensions/widgets/post_widget.php:146
+#: extensions/widgets/post_widget.php:174
+msgid "Read more"
+msgstr ""
+
+#: extensions/widgets/tab_content_widget.php:13
+msgid "Show your pages/posts content in tabs"
+msgstr ""
+
+#: extensions/widgets/tab_content_widget.php:161
+msgid "Choose post:"
+msgstr ""
+
+#: extensions/widgets/video_section_widget.php:14
+msgid "Show some or all videos from your posts"
+msgstr ""
+
+#: extensions/widgets/video_section_widget.php:160
+#: extensions/widgets/video_section_widget.php:170
+msgid "All"
+msgstr "Todos"
+
+#: footer.php:40
+msgid "Read them"
+msgstr ""
+
+#: functions.php:354
+msgid "show me more posts"
+msgstr ""
+
+#: functions.php:355
+msgid "Next"
+msgstr "Próximo"
+
+#: functions.php:523
+msgid "Left Aside"
+msgstr ""
+
+#: functions.php:525
+msgid "Left widgeta area."
+msgstr ""
+
+#: functions.php:538
+msgid "Right Aside"
+msgstr ""
+
+#: functions.php:540
+msgid "Right widget area."
+msgstr ""
+
+#: functions.php:553
+msgid "Home Page"
+msgstr ""
+
+#: functions.php:555
+msgid "Home page."
+msgstr ""
+
+#: functions.php:724
+msgid "Sorry, comments are closed for this item."
+msgstr "Desculpe, os comentários estão desativados para esse item."
+
+#: functions.php:759
+msgid "Sorry, you must be logged in to post a comment."
+msgstr "Você precisa fazer o Login para Comentar."
+
+#: functions.php:766
+msgid "Error: please type a comment."
+msgstr "Erro: por favor digite um comentário."
+
+#: functions.php:773
+msgid "Error: please fill the required fields (name, email, comment)."
+msgstr "Erro: por favor preencha os campos obrigatórios (nome, email)."
+
+#: functions.php:777
+msgid "Error: please enter a valid email address."
+msgstr ""
+
+#: functions.php:1053
+msgid "Advertising"
+msgstr ""
+
+#: functions.php:1054
+msgid "Ad"
+msgstr ""
+
+#: functions.php:1055
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: functions.php:1056
+msgid "Add New Ad"
+msgstr ""
+
+#: functions.php:1057
+msgid "Edit Ad"
+msgstr ""
+
+#: functions.php:1058
+msgid "New Ad"
+msgstr ""
+
+#: functions.php:1059
+msgid "All Ads"
+msgstr ""
+
+#: functions.php:1060
+msgid "View Ad"
+msgstr ""
+
+#: functions.php:1061
+msgid "Search Ads"
+msgstr ""
+
+#: functions.php:1062
+msgid "No Ad found"
+msgstr ""
+
+#: functions.php:1063
+msgid "No Ad found in the Trash"
+msgstr ""
+
+#: header.php:139
+msgid "Search for: "
+msgstr ""
+
+#: header.php:142
+msgid "Archive:"
+msgstr ""
+
+#: search.php:24
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lamentamos, não houve resultados para sua busca. Por favor, tente novamente "
+"com outra palavra."
+
+#: short-comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Protegido por senha. Preencha a senha para ver quaisquer comentários."
+
+#: short-comments.php:35
+msgid "your name"
+msgstr ""
+
+#: short-comments.php:36
+msgid "Email"
+msgstr "Email"
+
+#: short-comments.php:36
+msgid "your email"
+msgstr "Já existe uma conta com este e-mail. Por favor, entre com ela."
+
+#: short-comments.php:43
+#, php-format
+msgid ""
+"<p><a href=\"%s\">%s</a><br> <a href=\"%s\" class=\"btn2\" title=\"Logout of "
+"this account\">Logout</a></p>"
+msgstr ""
+
+#: short-comments.php:54
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: short-comments.php:56
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: short-comments.php:58
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+msgstr ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes:"
+
+#: short-comments.php:59
+msgid "Post Comment"
+msgstr "Publicar Comentário"
+
+#: short-comments.php:75 short-comments.php:94
+msgid "Comment navigation"
+msgstr "Navegação de comentário"
+
+#: short-comments.php:76 short-comments.php:95
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários Antigos"
+
+#: short-comments.php:77 short-comments.php:96
+msgid "Newer Comments &rarr;"
+msgstr "Comentários Novos &rarr;"
+
+#: short-comments.php:105
+msgid "Comments are closed."
+msgstr "Comentários não permitidos."
+
+#: single.php:33
+msgid "Overall Score"
+msgstr ""
+
+#: single.php:113
+msgid "Related posts"
+msgstr ""
+
+#: vafpress-framework/bootstrap.php:76
+#: vafpress-framework/classes/option.php:269
+#: vafpress-framework/classes/option.php:287
+msgid "Success"
+msgstr "Sucesso"
+
+#: vafpress-framework/classes/metabox.php:35
+msgid "[Dev Mode] "
+msgstr ""
+
+#: vafpress-framework/classes/option.php:46
+#: vafpress-framework/classes/option.php:47
+msgid "An Awesome Options"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:52
+msgid "Option Key is required."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:54
+msgid "Template Array/File is required."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:56
+msgid "Page Slug is required"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:232
+msgid "Can't be empty."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:247
+msgid "Invalid data."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:292
+msgid "Unverified Access."
+msgstr ""
+
+#: vafpress-framework/classes/option.php:363
+msgid "Invalid template supplied"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:374
+msgid "Utility"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:380
+#: vafpress-framework/views/option/restore.php:11
+msgid "Restore Default"
+msgstr ""
+
+#: vafpress-framework/classes/option.php:391
+msgid "Export/Import"
+msgstr ""
+
+#: vafpress-framework/classes/wp/tracker.php:27
+msgid "Once Weekly"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:13
+msgid "Value need to be Alphabet"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:14
+msgid "Value need to be Alphanumeric"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:15
+msgid "Value need to be Numeric"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:16
+msgid "Value need to be Valid Email"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:17
+msgid "Value need to be Valid URL"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:18
+msgid "Length need to be less than {0} characters"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:19
+msgid "Length need to be more than {0} characters"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:22
+msgid "This is Required"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:29
+msgid "Import success, option page will be refreshed.."
+msgstr ""
+
+#: vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:31
+msgid "Export success, copy the serialized options"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: vafpress-framework/config/messages.php:33
+msgid "Restore success, option page will be refreshed.."
+msgstr ""
+
+#: vafpress-framework/config/messages.php:34
+msgid "Options identical to default."
+msgstr ""
+
+#: vafpress-framework/config/messages.php:35
+msgid "Restore failed"
+msgstr ""
+
+#: vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: vafpress-framework/views/option/impexp.php:4
+#: vafpress-framework/views/option/impexp.php:12
+msgid "Import"
+msgstr "Importação"
+
+#: vafpress-framework/views/option/impexp.php:5
+msgid "Import Options"
+msgstr "Opções de importação"
+
+#: vafpress-framework/views/option/impexp.php:25
+#: vafpress-framework/views/option/impexp.php:33
+msgid "Export"
+msgstr "Exportar"
+
+#: vafpress-framework/views/option/impexp.php:26
+msgid "Export Options"
+msgstr "Opções de exportação"
+
+#: vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: vafpress-framework/views/option/restore.php:5
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: vafpress-framework/views/option/set.php:69
+#: vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""

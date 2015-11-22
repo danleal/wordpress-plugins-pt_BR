@@ -1,0 +1,2062 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pt_BR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-03 13:17+0530\n"
+"PO-Revision-Date: 2015-06-12 13:48-0300\n"
+"Last-Translator: Daniel Leal <daniel@braising.com.br>\n"
+"Language-Team: Braising <contato@braising.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Error 404 Not Found"
+msgstr "Erro 404 Not Found"
+
+#: 404.php:12
+msgid "Oops! We couldn't find this Page."
+msgstr "Ops! Nós não conseguimos encontrar essa Página."
+
+#: 404.php:13
+msgid "Please check your URL or use the search form below."
+msgstr "Por favor verifique a sua URL ou usar o formulário de pesquisa abaixo."
+
+#: archive.php:11 archive.php:13 archive.php:15
+msgid " Archive"
+msgstr " Arquivo"
+
+#: archive.php:17
+msgid "Daily Archive:"
+msgstr "Arquivo Diário:"
+
+#: archive.php:19
+msgid "Monthly Archive:"
+msgstr "Arquivo Mensal:"
+
+#: archive.php:21
+msgid "Yearly Archive:"
+msgstr "Anualmente Archive:"
+
+#: archive.php:52 index.php:37 search.php:45
+msgid "&larr; Older posts"
+msgstr "& Larr; Posts mais antigos"
+
+#: archive.php:53 index.php:38 search.php:46
+msgid "Newer posts &rarr;"
+msgstr "Posts recentes & rarr;"
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Este post é protegido por senha. Digite a senha para ver os comentários."
+
+#: comments.php:16
+msgid "No Responses"
+msgstr "Nenhuma resposta"
+
+#: comments.php:16
+msgid "One Response"
+msgstr "Uma resposta"
+
+#: comments.php:16
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: comments.php:42
+msgid "Leave a Reply"
+msgstr "Deixe uma resposta"
+
+#: comments.php:46
+msgid "Comment Text*"
+msgstr "Texto de comentário *"
+
+#: comments.php:50
+msgid "Name*"
+msgstr "Nome *"
+
+#: comments.php:52 functions/contact-form.php:104
+msgid "Email*"
+msgstr "E-mail *"
+
+#: comments.php:53
+msgid "Website"
+msgstr "Site"
+
+#: functions.php:118
+msgid "Primary Menu"
+msgstr "Menu de primária"
+
+#: functions.php:138
+msgid "Default sidebar."
+msgstr "Barra lateral Padrão."
+
+#: functions.php:312
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:426
+msgid "Load More Posts"
+msgstr "Carregar mais Posts"
+
+#: functions.php:427
+msgid "Loading..."
+msgstr "Carregando ..."
+
+#: functions.php:428
+msgid "No more posts."
+msgstr "Não há mais posts."
+
+#: functions.php:527
+msgid "Author"
+msgstr "Autor"
+
+#: functions.php:578
+msgid "( Edit )"
+msgstr "(Edit)"
+
+#: functions.php:582
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando moderação."
+
+#: functions.php:655
+msgid "Continue"
+msgstr "Leia Mais"
+
+#: functions.php:758
+msgid "Results"
+msgstr "Resultados"
+
+#: functions.php:760
+msgid "No results found."
+msgstr "Não foram encontrados resultados."
+
+#: header.php:34
+msgid "Search..."
+msgstr "Pesquisa ..."
+
+#: page-contact.php:23 page-parallax.php:25 page.php:18
+#: singlepost-parallax.php:37
+msgid "Next"
+msgstr "Next"
+
+#: page-contact.php:23 page-parallax.php:25 page.php:18
+#: singlepost-parallax.php:37
+msgid "Previous"
+msgstr "Anterior"
+
+#: search.php:10
+msgid "Search Results for:"
+msgstr "Resultados da pesquisa para:"
+
+#: search.php:35
+msgid "We apologize for any inconvenience, please hit back on your browser or use the search form below."
+msgstr "Pedimos desculpas por qualquer inconveniente, por favor, bater de volta em seu navegador ou use o formulário de pesquisa abaixo."
+
+#: searchform.php:5
+msgid "Search the site"
+msgstr "Busca no site"
+
+#: sidebar.php:10 theme-options.php:790
+msgid "Search"
+msgstr "Pesquisa"
+
+#: sidebar.php:14
+msgid "Archives"
+msgstr "Arquivo"
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr "Meta"
+
+#: single.php:40 singlepost-parallax.php:47
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: single.php:47 singlepost-parallax.php:54
+msgid "About The Author"
+msgstr "Sobre o autor"
+
+#: theme-options.php:24
+msgid "A Section added by hook"
+msgstr "A Seção adicionado por gancho"
+
+#: theme-options.php:25
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+
+#: theme-options.php:94 theme-options.php:97
+msgid "Theme Options"
+msgstr "Opções de Tema"
+
+#: theme-options.php:121
+msgid "Support"
+msgstr "Apoio"
+
+#: theme-options.php:122
+msgid "<p>If you are facing any problem with our theme or theme option panel, head over to our <a href=\"http://mythemeshop.com/support\">Knowledge Base</a></p>"
+msgstr "<P> Se você está enfrentando algum problema com o nosso tema ou o painel de opção de tema, de cabeça para o nosso <a href=\"http://mythemeshop.com/support\"> Base de Conhecimento </a> </ p>"
+
+#: theme-options.php:126
+msgid "Credit"
+msgstr "Crédito"
+
+#: theme-options.php:127
+msgid "<p>Options Panel created using the <a href=\"http://leemason.github.com/NHP-Theme-Options-Framework/\" target=\"_blank\">NHP Theme Options Framework</a> Version 1.0.5</p>"
+msgstr "<P> Opções Painel criada usando o <a href=\"http://leemason.github.com/NHP-theme-Opções-Framework/\" target=\"_blank\"> NHP Tema Opções Framework </a> Versão 1.0.5 </ p>"
+
+#: theme-options.php:131
+msgid "Earn Money"
+msgstr "Ganhe Dinheiro"
+
+#: theme-options.php:132
+#, php-format
+msgid "<p>Earn 60% commision on every sale by refering your friends and readers. Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate Program</a>.</p>"
+msgstr "<p>Earn 60% commision on every sale by refering your friends and readers. Join our <a href=\"http://mythemeshop.com/affiliate-program/\">Affiliate Program</a>.</p>"
+
+#: theme-options.php:142
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: theme-options.php:143
+msgid "<p class=\"description\">This tab contains common setting options which will be applied to the whole theme.</p>"
+msgstr "<p class=\"description\">This tab contains common setting options which will be applied to the whole theme.</p>"
+
+#: theme-options.php:148
+msgid "Logo Image"
+msgstr "Logo Imagem"
+
+#: theme-options.php:149
+msgid "Upload your logo using the Upload Button or insert image URL.(Recommended height 30px)"
+msgstr "Envie seu logotipo usando o botão Enviar ou inserir URL da imagem. (Recomendado 30px altura)"
+
+#: theme-options.php:154
+msgid "Favicon"
+msgstr "Favicon"
+
+#: theme-options.php:155
+msgid "Upload a <strong>16 x 16 px</strong> image that will represent your website's favicon. You can refer to this link for more information on how to make it: <a href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow\">http://www.favicon.cc/</a>"
+msgstr "Fazer upload de um <strong> 16 x 16 px </ strong> imagem que vai representar favicon do seu site. Você pode consultar este link para mais informações sobre como fazê-lo: <a href=\"http://www.favicon.cc/\" target=\"blank\" rel=\"nofollow\"> http: //www.favicon.cc/ </a>"
+
+#: theme-options.php:160 functions/widget-tweets.php:120
+msgid "Twitter Username"
+msgstr "Twitter usuário"
+
+#: theme-options.php:161
+msgid "Enter your Username here."
+msgstr "Digite seu usuário aqui."
+
+#: theme-options.php:166
+msgid "FeedBurner URL"
+msgstr "FeedBurner URL"
+
+#: theme-options.php:167
+msgid "Enter your FeedBurner's URL here, ex: <strong>http://feeds.feedburner.com/mythemeshop</strong> and your main feed (http://example.com/feed) will get redirected to the FeedBurner ID entered here.)"
+msgstr "Digite o seu URL do FeedBurner aqui, ex: <strong> http://feeds.feedburner.com/mythemeshop </ strong> e sua alimentação principal (http://example.com/feed) será redirecionado para o FeedBurner ID entrou aqui .)"
+
+#: theme-options.php:173
+msgid "Header Code"
+msgstr "Código Header"
+
+#: theme-options.php:174
+msgid "Enter the code which you need to place <strong>before closing </head> tag</strong>. (ex: Google Webmaster Tools verification, Bing Webmaster Center, BuySellAds Script, Alexa verification etc.)"
+msgstr "Digite o código que você precisa colocar <strong> antes de fechar </ head> tag </ strong>. (Ex: Ferramentas para Webmasters do Google verificação, Bing Webmaster Center, BuySellAds Script, Alexa verificação etc.)"
+
+#: theme-options.php:179
+msgid "Footer Code"
+msgstr "Código Rodapé"
+
+#: theme-options.php:180
+msgid "Enter the codes which you need to place in your footer. <strong>(ex: Google Analytics, Clicky, STATCOUNTER, Woopra, Histats, etc.)</strong>."
+msgstr "Digite os códigos que você precisa para colocar em seu rodapé. <Strong> (ex.: Google Analytics, Clicky, StatCounter, Woopra, Histats, etc) </ strong>."
+
+#: theme-options.php:185
+msgid "Copyrights Text"
+msgstr "Copyrights Texto"
+
+#: theme-options.php:186
+msgid "You can change or remove our link from footer and use your own custom text. (Link back is always appreciated)"
+msgstr "Você pode alterar ou remover o nosso link de rodapé e usar seu próprio texto feito sob encomenda. (Link de volta é sempre bem vinda)"
+
+#: theme-options.php:192
+msgid "Pagination Type"
+msgstr "Tipo de Paginação"
+
+#: theme-options.php:193
+msgid "Select pagination type."
+msgstr "Selecione o tipo de paginação."
+
+#: theme-options.php:195
+msgid "Default (Next / Previous)"
+msgstr "Padrão (Seguinte / Anterior)"
+
+#: theme-options.php:196
+msgid "Numbered (1 2 3 4...)"
+msgstr "Numerada (1 2 3 4 ...)"
+
+#: theme-options.php:204
+msgid "AJAX Quick search"
+msgstr "AJAX Pesquisa rápida"
+
+#: theme-options.php:206
+msgid "Enable or disable search results appearing instantly below the search form"
+msgstr "Ativar ou desativar os resultados da pesquisa aparecem instantaneamente abaixo do formulário de pesquisa"
+
+#: theme-options.php:213
+msgid "Responsiveness"
+msgstr "Receptividade"
+
+#: theme-options.php:215
+msgid "MyThemeShop themes are responsive, which means they adapt to tablet and mobile devices, ensuring that your content is always displayed beautifully no matter what device visitors are using. Enable or disable responsiveness using this option."
+msgstr "MyThemeShop temas são sensíveis, o que significa que eles se adaptam a tablets e celulares, garantindo que o seu conteúdo é sempre apresentado lindamente, não importa qual dispositivo visitantes estão usando. Ativar ou desativar a capacidade de resposta de usar esta opção."
+
+#: theme-options.php:221
+msgid "Prefetching"
+msgstr "Prefetching"
+
+#: theme-options.php:223
+msgid "Enable or disable prefetching. If user is on homepage, then single page will load faster and if user is on single page, homepage will load faster in modern browsers."
+msgstr "Ativar ou desativar a pré-busca. Se o usuário está na homepage, em seguida, única página irá carregar mais rápido e se o usuário está em uma página, homepage irá carregar mais rápido em navegadores modernos."
+
+#: theme-options.php:229
+msgid "Right To Left Language Support"
+msgstr "Direito de apoiar Esquerda Idioma"
+
+#: theme-options.php:231
+msgid "Enable this option for right-to-left sites."
+msgstr "Ative essa opção para sites da direita para a esquerda."
+
+#: theme-options.php:239
+msgid "Styling Options"
+msgstr "Opções de Estilo"
+
+#: theme-options.php:240
+msgid "<p class=\"description\">Control the visual appearance of your theme, such as colors, layout and patterns, from here.</p>"
+msgstr "<p class=\"description\">Control the visual appearance of your theme, such as colors, layout and patterns, from here.</p>"
+
+#: theme-options.php:245 functions/widget-fblikebox.php:101
+msgid "Color Scheme"
+msgstr "Esquema de cores"
+
+#: theme-options.php:246
+msgid "The theme comes with unlimited color schemes for your theme's styling."
+msgstr "O tema vem com esquemas de cores ilimitadas para styling de seu tema."
+
+#: theme-options.php:252
+msgid "Layout Style"
+msgstr "Estilo de layout"
+
+#: theme-options.php:253
+msgid "Choose the <strong>default sidebar position</strong> for your site. The position of the sidebar for individual posts can be set in the post editor. <strong>Note:</strong> This option will not work if you have enabled nosidebar in Sidebars Options Panel Tab."
+msgstr "Escolha a posição da barra lateral <strong> default </ strong> para o seu site. A posição da barra lateral para mensagens individuais podem ser definidas no editor post. <Strong> Nota: </ strong> Esta opção não irá funcionar se você tiver habilitado nosidebar em Opções Sidebars Tab Panel."
+
+#: theme-options.php:263
+msgid "Posts on blog pages"
+msgstr "Posts em páginas de blog"
+
+#: theme-options.php:265
+msgid "Show post excerpts or full posts on the homepage and other archive pages."
+msgstr "Mostrar postam trechos ou posts completos na página inicial e outras páginas de arquivos."
+
+#: theme-options.php:272
+msgid "Blog Page Post Meta Info."
+msgstr "Blog Página Publicar Meta Info."
+
+#: theme-options.php:274
+msgid "Use this button to Show or Hide Post Meta Info on Blog Page. (<strong>Author name, Date etc.</strong>)."
+msgstr "Utilize este botão para mostrar ou ocultar Publicar Meta Info no Blog Página. (<Strong> nome do autor, data etc. </ Strong>)."
+
+#: theme-options.php:280 theme-options.php:502
+msgid "Meta Info to Show"
+msgstr "Meta Informações para Mostrar"
+
+#: theme-options.php:281 theme-options.php:503
+msgid "Choose What Meta Info to Show."
+msgstr "Escolha O Meta Informações para mostrar."
+
+#: theme-options.php:282 theme-options.php:504
+msgid "Author Name"
+msgstr "Nome do Autor"
+
+#: theme-options.php:282 theme-options.php:504
+msgid "Date"
+msgstr "Data"
+
+#: theme-options.php:282 theme-options.php:504
+msgid "Categories"
+msgstr "Categorias"
+
+#: theme-options.php:282 theme-options.php:504
+msgid "Comment Count"
+msgstr "Contagem Comentário"
+
+#: theme-options.php:288 theme-options.php:451
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: theme-options.php:289
+msgid "Pick a color for the site background color."
+msgstr "Escolha uma cor para a cor de fundo do sítio."
+
+#: theme-options.php:295
+msgid "Background Pattern"
+msgstr "Padrão de fundo"
+
+#: theme-options.php:296
+msgid "Choose from any of <strong>63</strong> awesome background patterns for your site's background."
+msgstr "Escolha a partir de qualquer um dos <strong> 63 </ strong> impressionantes padrões de fundo para o fundo do seu site."
+
+#: theme-options.php:368
+msgid "Custom Background Image"
+msgstr "Personalizado Imagem de Fundo"
+
+#: theme-options.php:369
+msgid "Upload your own custom background image or pattern."
+msgstr "Publique sua própria imagem de fundo personalizada ou padrão."
+
+#: theme-options.php:374
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: theme-options.php:375
+msgid "You can enter custom CSS code here to further customize your theme. This will override the default CSS used on your site."
+msgstr "Você pode inserir personalizado código CSS aqui para personalizar ainda mais o tema. Isso irá substituir o CSS padrão usado em seu site."
+
+#: theme-options.php:380
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: theme-options.php:382
+msgid "A lightbox is a stylized pop-up that allows your visitors to view larger versions of images without leaving the current page. You can enable or disable the lightbox here."
+msgstr "Uma mesa de luz é um estilizado pop-up que permite que seus visitantes para ver as versões maiores das imagens sem sair da página atual. Você pode ativar ou desativar a caixa de luz aqui."
+
+#: theme-options.php:388
+msgid "Thumbnail Hover Effect"
+msgstr "Thumbnail Hover Effect"
+
+#: theme-options.php:390
+msgid "Turn on or off the animated hover effect for thumbnails."
+msgstr "Ativar ou desativar o efeito hover animado para thumbnails."
+
+#: theme-options.php:398
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: theme-options.php:399
+msgid "<p class=\"description\">From here, you can control the elements of header section.</p>"
+msgstr "<p class=\"description\">From here, you can control the elements of header section.</p>"
+
+#: theme-options.php:404
+msgid "Show Logo"
+msgstr "Mostrar Logo"
+
+#: theme-options.php:406
+msgid "Use this button to Show or Hide <strong>Logo</strong> completely."
+msgstr "Utilize este botão para mostrar ou ocultar <strong> Logo </ strong> completamente."
+
+#: theme-options.php:412
+msgid "Show Header Menu"
+msgstr "Mostrar menu Header"
+
+#: theme-options.php:414
+msgid "Use this button to enable <strong>Primary Navigation Menu</strong>."
+msgstr "Utilize este botão para ativar o <strong> Menu de navegação primária </ strong>."
+
+#: theme-options.php:420
+msgid "Header Menu Search Form"
+msgstr "Cabeçalho do menu Formulário de Busca"
+
+#: theme-options.php:422
+msgid "Use this button to Show or Hide <strong>Search Form</strong> in Primary ( header ) menu ."
+msgstr "Utilize este botão para mostrar ou ocultar <strong> Formulário de busca </ strong> na Primária menu (cabeçalho)."
+
+#: theme-options.php:427
+msgid "Header Social Icons"
+msgstr "Cabeçalho ícones sociais"
+
+#: theme-options.php:428
+msgid "Add Social Media icons in header."
+msgstr "Adicionar ícones de mídia social no cabeçalho."
+
+#: theme-options.php:430
+msgid "Header Icons"
+msgstr "Cabeçalho Icons"
+
+#: theme-options.php:436 functions/widget-fblikebox.php:86
+msgid "Title"
+msgstr "Título"
+
+#: theme-options.php:441
+msgid "Icon"
+msgstr "Ícone"
+
+#: theme-options.php:446 functions/nav-menu.php:211
+msgid "URL"
+msgstr "URL"
+
+#: theme-options.php:452
+msgid "Pick a color for the icon."
+msgstr "Escolha uma cor para o ícone."
+
+#: theme-options.php:488
+msgid "Single Posts"
+msgstr "Posts de solteiro"
+
+#: theme-options.php:489
+msgid "<p class=\"description\">From here, you can control the appearance and functionality of your single posts page.</p>"
+msgstr "<p class=\"description\">From here, you can control the appearance and functionality of your single posts page.</p>"
+
+#: theme-options.php:494
+msgid "Post Meta Info."
+msgstr "Publicar Meta Info."
+
+#: theme-options.php:496
+msgid "Use this button to Show or Hide Post Meta Info <strong>Author name and Categories</strong>."
+msgstr "Utilize este botão para mostrar ou ocultar Publicar Meta Informações <strong> Nome do autor e Categorias </ strong>."
+
+#: theme-options.php:510
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: theme-options.php:512
+msgid "Breadcrumbs are a great way to make your site more user-friendly. You can enable them by checking this box."
+msgstr "Breadcrumbs são uma ótima maneira de tornar seu site mais user-friendly. Você pode habilitá-los por marcar esta caixa."
+
+#: theme-options.php:518
+msgid "Highlight Author Comment"
+msgstr "Destaque Autor Comentário"
+
+#: theme-options.php:520
+msgid "Use this button to highlight author comments."
+msgstr "Utilize este botão para destacar autor comenta."
+
+#: theme-options.php:526
+msgid "Tag Links"
+msgstr "Ligações Tag"
+
+#: theme-options.php:528
+msgid "Use this button if you want to show a tag cloud below the related posts."
+msgstr "Utilize este botão se você quiser mostrar uma nuvem de tags abaixo dos posts relacionados."
+
+#: theme-options.php:534 functions/theme-actions.php:200
+#: functions/widget-relatedposts.php:30
+msgid "Related Posts"
+msgstr "Posts relacionados"
+
+#: theme-options.php:539
+msgid "Use this button to show related posts with thumbnails below the content area in a post."
+msgstr "Utilize este botão para mostrar posts relacionados com miniaturas abaixo da área de conteúdo em um post."
+
+#: theme-options.php:548
+msgid "Related Posts Taxonomy"
+msgstr "Posts Relacionados Taxonomia"
+
+#: theme-options.php:554
+msgid "Related Posts based on tags or categories."
+msgstr "Mensagens relacionadas com base em tags ou categorias."
+
+#: theme-options.php:561
+msgid "Number of related posts"
+msgstr "Número de posts relacionados"
+
+#: theme-options.php:562
+msgid "Enter the number of posts to show in the related posts section."
+msgstr "Digite o número de posts para mostrar na seção de mensagens relacionadas."
+
+#: theme-options.php:571
+msgid "Author Box"
+msgstr "Autor Box"
+
+#: theme-options.php:573
+msgid "Use this button if you want to display author information below the article."
+msgstr "Utilize este botão se você deseja exibir informações sobre o autor abaixo do artigo."
+
+#: theme-options.php:579
+msgid "Date in Comments"
+msgstr "Data em Comments"
+
+#: theme-options.php:581
+msgid "Use this button to show the date for comments."
+msgstr "Utilize este botão para mostrar a data para comentários."
+
+#: theme-options.php:589
+msgid "Social Buttons"
+msgstr "Botões Sociais"
+
+#: theme-options.php:590
+msgid "<p class=\"description\">Enable or disable social sharing buttons on single posts using these buttons.</p>"
+msgstr "<p class=\"description\">Enable or disable social sharing buttons on single posts using these buttons.</p>"
+
+#: theme-options.php:595
+msgid "Social Media Buttons"
+msgstr "Social Media Buttons"
+
+#: theme-options.php:597
+msgid "Check this box to show social sharing buttons after an article's content text."
+msgstr "Marque esta caixa para mostrar os botões de compartilhamento social depois do texto de conteúdo de um artigo."
+
+#: theme-options.php:604
+msgid "Social Sharing Buttons Position"
+msgstr "Compartilhamento social Botões Posição"
+
+#: theme-options.php:605
+msgid "Above Content"
+msgstr "Acima de conteúdo"
+
+#: theme-options.php:605
+msgid "Below Content"
+msgstr "Abaixo conteúdo"
+
+#: theme-options.php:605
+msgid "Floating"
+msgstr "Flutuante"
+
+#: theme-options.php:606
+msgid "Choose position for Social Sharing Buttons."
+msgstr "Escolha posição para compartilhamento social Buttons."
+
+#: theme-options.php:613
+msgid "Twitter"
+msgstr "Chilro"
+
+#: theme-options.php:620
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: theme-options.php:627
+msgid "Facebook Like"
+msgstr "Facebook Like"
+
+#: theme-options.php:634
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: theme-options.php:641
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: theme-options.php:648
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: theme-options.php:657
+msgid "Ad Management"
+msgstr "Anúncios"
+
+#: theme-options.php:658
+msgid "<p class=\"description\">Now, ad management is easy with our options panel. You can control everything from here, without using separate plugins.</p>"
+msgstr "<p class=\"description\">Now, ad management is easy with our options panel. You can control everything from here, without using separate plugins.</p>"
+
+#: theme-options.php:663
+msgid "Below Post Title"
+msgstr "Abaixo Pós Título"
+
+#: theme-options.php:664
+msgid "Paste your Adsense, BSA or other ad code here to show ads below your article title on single posts."
+msgstr "Cole o Adsense, BSA ou outro código anúncio aqui para mostrar anúncios abaixo o título do artigo sobre os posts individuais."
+
+#: theme-options.php:669 theme-options.php:685
+msgid "Show After X Days"
+msgstr "Mostrar Após X Dias"
+
+#: theme-options.php:670 theme-options.php:686
+msgid "Enter the number of days after which you want to show the Below Post Title Ad. Enter 0 to disable this feature."
+msgstr "Digite o número de dias após o qual você deseja mostrar a Abaixo Ad Título da mensagem. Digite 0 para desativar esse recurso."
+
+#: theme-options.php:679
+msgid "Below Post Content"
+msgstr "Abaixo Publicar conteúdo"
+
+#: theme-options.php:680
+msgid "Paste your Adsense, BSA or other ad code here to show ads below the post content on single posts."
+msgstr "Cole o Adsense, BSA ou outro código anúncio aqui para mostrar anúncios abaixo o conteúdo do post em postes de solteiro."
+
+#: theme-options.php:697
+msgid "Sidebars"
+msgstr "Sidebars"
+
+#: theme-options.php:698
+msgid "<p class=\"description\">Now you have full control over the sidebars. Here you can manage sidebars and select one for each section of your site, or select a custom sidebar on a per-post basis in the post editor.<br></p>"
+msgstr "<p class=\"description\">Now you have full control over the sidebars. Here you can manage sidebars and select one for each section of your site, or select a custom sidebar on a per-post basis in the post editor.<br></p>"
+
+#: theme-options.php:703
+msgid "Custom Sidebars"
+msgstr "Barras laterais personalizadas"
+
+#: theme-options.php:704
+msgid "Add custom sidebars. <strong style=\"font-weight: 800;\">You need to save the changes to use the sidebars in the dropdowns below.</strong><br />You can add content to the sidebars in Appearance &gt; Widgets."
+msgstr "Add custom sidebars. <strong style=\"font-weight: 800;\">You need to save the changes to use the sidebars in the dropdowns below.</strong><br />You can add content to the sidebars in Appearance &gt; Widgets."
+
+#: theme-options.php:705 functions/metaboxes.php:11
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: theme-options.php:711
+msgid "Name"
+msgstr "Nome"
+
+#: theme-options.php:712
+msgid "Example: Homepage Sidebar"
+msgstr "Exemplo: Homepage Sidebar"
+
+#: theme-options.php:717
+msgid "ID"
+msgstr "Identidade"
+
+#: theme-options.php:718
+msgid "Enter a unique ID for the sidebar. Use only alphanumeric characters, underscores (_) and dashes (-), eg. \"sidebar-home\""
+msgstr "Enter a unique ID for the sidebar. Use only alphanumeric characters, underscores (_) and dashes (-), eg. \"sidebar-home\""
+
+#: theme-options.php:726
+msgid "Homepage"
+msgstr "Homepage"
+
+#: theme-options.php:727
+msgid "Select a sidebar for the homepage."
+msgstr "Selecione uma barra lateral para a homepage."
+
+#: theme-options.php:734
+msgid "Single Post"
+msgstr "Single Post"
+
+#: theme-options.php:735
+msgid "Select a sidebar for the single posts. If a post has a custom sidebar set, it will override this."
+msgstr "Selecione uma barra lateral para os cargos de solteiro. Se um post tem um conjunto barra lateral personalizado, ele irá substituir esse."
+
+#: theme-options.php:742
+msgid "Single Page"
+msgstr "Página Única"
+
+#: theme-options.php:743
+msgid "Select a sidebar for the single pages. If a page has a custom sidebar set, it will override this."
+msgstr "Selecione uma barra lateral para as páginas individuais. Se uma página tem um conjunto barra lateral personalizado, ele irá substituir esse."
+
+#: theme-options.php:750
+msgid "Archive"
+msgstr "Arquivo"
+
+#: theme-options.php:751
+msgid "Select a sidebar for the archives. Specific archive sidebars will override this setting (see below)."
+msgstr "Selecione uma barra lateral para os arquivos. Barras laterais de arquivo específico irá substituir essa configuração (veja abaixo)."
+
+#: theme-options.php:758
+msgid "Category Archive"
+msgstr "Arquivo da Categoria"
+
+#: theme-options.php:759
+msgid "Select a sidebar for the category archives."
+msgstr "Selecione uma barra lateral para os arquivos da categoria."
+
+#: theme-options.php:766
+msgid "Tag Archive"
+msgstr "Tag Archive"
+
+#: theme-options.php:767
+msgid "Select a sidebar for the tag archives."
+msgstr "Selecione uma barra lateral para os arquivos de tag."
+
+#: theme-options.php:774
+msgid "Date Archive"
+msgstr "Data Archive"
+
+#: theme-options.php:775
+msgid "Select a sidebar for the date archives."
+msgstr "Selecione uma barra lateral para os arquivos de data."
+
+#: theme-options.php:782
+msgid "Author Archive"
+msgstr "Autor Arquivo"
+
+#: theme-options.php:783
+msgid "Select a sidebar for the author archives."
+msgstr "Selecione uma barra lateral para os arquivos autor."
+
+#: theme-options.php:791
+msgid "Select a sidebar for the search results."
+msgstr "Selecione uma barra lateral para os resultados da pesquisa."
+
+#: theme-options.php:798
+msgid "404 Error"
+msgstr "Erro 404"
+
+#: theme-options.php:799
+msgid "Select a sidebar for the 404 Not found pages."
+msgstr "Selecione uma barra lateral para os 404 páginas não foi encontrado."
+
+#: theme-options.php:808
+msgid "Navigation"
+msgstr "Navegação"
+
+#: theme-options.php:809
+msgid "<p class=\"description\"><div class=\"controls\">Navigation settings can now be modified from the <a href=\"nav-menus.php\"><b>Menus Section</b></a>.<br></div></p>"
+msgstr "<p class=\"description\"><div class=\"controls\">Navigation settings can now be modified from the <a href=\"nav-menus.php\"><b>Menus Section</b></a>.<br></div></p>"
+
+#: functions/bfi-thumb.php:120
+msgid "The server does not have ImageMagick or GD installed and/or enabled! Any of these libraries are required for WordPress to be able to resize images. Please contact your server administrator to enable this before continuing."
+msgstr "O servidor não tem ImageMagick ou GD instalado e / ou habilitado! Qualquer uma destas bibliotecas são necessários para WordPress para ser capaz de redimensionar imagens. Entre em contato com o administrador do servidor para permitir isso antes de continuar."
+
+#: functions/bfi-thumb.php:235
+msgid "Image rotate failed."
+msgstr "Rotação de imagem falhou."
+
+#: functions/bfi-thumb.php:257
+msgid "Image opacity change failed."
+msgstr "Imagem mudança de opacidade falhou."
+
+#: functions/bfi-thumb.php:335
+msgid "Image color change failed."
+msgstr "Imagem mudança de cor falhou."
+
+#: functions/bfi-thumb.php:351
+msgid "Image grayscale failed."
+msgstr "Tons de cinza Imagem falhou."
+
+#: functions/bfi-thumb.php:367
+msgid "Image negate failed."
+msgstr "Negate imagem falhou."
+
+#: functions/contact-form.php:23 functions/contact-form.php:37
+msgid "An error occurred. Please contact site administrator."
+msgstr "Ocorreu um erro. Entre em contato com administrador do site."
+
+#: functions/contact-form.php:53 functions/contact-form.php:58
+msgid "Please try again."
+msgstr "Por favor, tente novamente."
+
+#: functions/contact-form.php:64
+msgid "Please enter your name."
+msgstr "Digite seu nome."
+
+#: functions/contact-form.php:70
+msgid "Please enter a valid email address."
+msgstr "Por favor insira um endereço de e-mail válido."
+
+#: functions/contact-form.php:79
+msgid "Please enter a message."
+msgstr "Digite uma mensagem."
+
+#: functions/contact-form.php:89
+msgid "Contact Form Message from"
+msgstr "Formulário de Contato Mensagem"
+
+#: functions/contact-form.php:90
+msgid "Name:"
+msgstr "Nome:"
+
+#: functions/contact-form.php:91
+msgid "Email:"
+msgstr "Email:"
+
+#: functions/contact-form.php:92
+msgid "Phone:"
+msgstr "Telefone:"
+
+#: functions/contact-form.php:93
+msgid "Message:"
+msgstr "Mensagem:"
+
+#: functions/contact-form.php:103
+msgid "Full Name*"
+msgstr "Nome Completo *"
+
+#: functions/contact-form.php:105
+msgid "Phone Number"
+msgstr "Número De Telefone"
+
+#: functions/contact-form.php:116
+msgid "Message*"
+msgstr "Mensagem *"
+
+#: functions/contact-form.php:118
+msgid "Send Message"
+msgstr "Enviar Mensagem"
+
+#: functions/contact-form.php:121
+msgid "Your message has been sent."
+msgstr "Sua mensagem foi enviada."
+
+#: functions/metaboxes.php:43
+#: options/fields/sidebars_select/field_sidebars_select.php:43
+msgid "Default"
+msgstr "Omissão"
+
+#: functions/metaboxes.php:53
+msgid "No sidebar --"
+msgstr "Nenhuma barra lateral -"
+
+#: functions/metaboxes.php:58
+msgid "Default side"
+msgstr "Lado Padrão"
+
+#: functions/metaboxes.php:59
+msgid "Left"
+msgstr "Esquerda"
+
+#: functions/metaboxes.php:60
+msgid "Right"
+msgstr "Direito"
+
+#: functions/metaboxes.php:136
+msgid "Template"
+msgstr "Modelo"
+
+#: functions/metaboxes.php:165
+msgid "Default Post Template"
+msgstr "Padrão Pós Template"
+
+#: functions/metaboxes.php:166
+msgid "Parallax Template"
+msgstr "Template Parallax"
+
+#. translators: %s: title of menu item which is invalid
+#: functions/nav-menu.php:157
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (inválida)"
+
+#. translators: %s: title of menu item in draft status
+#: functions/nav-menu.php:161
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Pending)"
+
+#: functions/nav-menu.php:202
+msgid "Edit Menu Item"
+msgstr "Item de menu Editar"
+
+#: functions/nav-menu.php:218
+msgid "Navigation Label"
+msgstr "Etiqueta Navigation"
+
+#: functions/nav-menu.php:224
+msgid "Title Attribute"
+msgstr "Título Atributo"
+
+#: functions/nav-menu.php:231
+msgid "Open link in a new window/tab"
+msgstr "Abrir link em uma nova janela / aba"
+
+#: functions/nav-menu.php:236
+msgid "CSS Classes (optional)"
+msgstr "Classes CSS (opcional)"
+
+#: functions/nav-menu.php:242
+msgid "Link Relationship (XFN)"
+msgstr "Relações Link (XFN)"
+
+#: functions/nav-menu.php:248
+msgid "Description"
+msgstr "Descrição"
+
+#: functions/nav-menu.php:250
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "A descrição será exibida no menu se o tema atual suporta."
+
+#: functions/nav-menu.php:259
+msgid "Icon (optional)"
+msgstr "Icon (opcional)"
+
+#: functions/nav-menu.php:262
+#: options/fields/icon_select/field_icon_select.php:74
+msgid "No Icon"
+msgstr "No Icon"
+
+#: functions/nav-menu.php:278
+msgid "Color (optional)"
+msgstr "Cor (opcional)"
+
+#: functions/nav-menu.php:289
+#, php-format
+msgid "Original: %s"
+msgstr "Original: %s"
+
+#: functions/nav-menu.php:302
+#: options/fields/multi_text/field_multi_text.php:39
+#: options/fields/multi_text/field_multi_text.php:46
+#: options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr "Remover"
+
+#: functions/nav-menu.php:303
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: functions/plugin-activation.php:196 functions/plugin-activation.php:2282
+msgid "Install Required Plugins"
+msgstr "Instale Obrigatório Plugins"
+
+#: functions/plugin-activation.php:197 functions/plugin-activation.php:2283
+msgid "Install Plugins"
+msgstr "Instale Plugins"
+
+#: functions/plugin-activation.php:198 functions/plugin-activation.php:2284
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando o Plugin: %s"
+
+#: functions/plugin-activation.php:199
+msgid "Something went wrong."
+msgstr "Algo deu errado."
+
+#: functions/plugin-activation.php:210 functions/plugin-activation.php:2296
+msgid "Return to Required Plugins Installer"
+msgstr "Retornar para Required Plugins Installer"
+
+#: functions/plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr "Retornar para a dashboard"
+
+#: functions/plugin-activation.php:212 functions/plugin-activation.php:1951
+#: functions/plugin-activation.php:2297
+msgid "Plugin activated successfully."
+msgstr "Plugin ativado com sucesso."
+
+#: functions/plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plug-in foi ativado com sucesso:"
+
+#: functions/plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalado e ativado com sucesso. %1$s"
+
+#: functions/plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr "Ignorar este aviso"
+
+#: functions/plugin-activation.php:544 functions/plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr "Retornar ao Dashboard"
+
+#: functions/plugin-activation.php:1174
+msgid "Private Repository"
+msgstr "Repository privada"
+
+#: functions/plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr "Pré-Embalados"
+
+#: functions/plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: functions/plugin-activation.php:1185
+msgid "Required"
+msgstr "Necessário"
+
+#: functions/plugin-activation.php:1185
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: functions/plugin-activation.php:1188
+msgid "Not Installed"
+msgstr "Não Instalado"
+
+#: functions/plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr "Instalado, mas não ativado"
+
+#: functions/plugin-activation.php:1290 functions/plugin-activation.php:1398
+msgid "Install"
+msgstr "Instalar"
+
+#: functions/plugin-activation.php:1312 functions/plugin-activation.php:1399
+msgid "Activate"
+msgstr "Ativar"
+
+#: functions/plugin-activation.php:1361
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+
+#: functions/plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/plugin-activation.php:1378
+msgid "Source"
+msgstr "Fonte"
+
+#: functions/plugin-activation.php:1379
+msgid "Type"
+msgstr "Tipo"
+
+#: functions/plugin-activation.php:1380
+msgid "Status"
+msgstr "Estado"
+
+#: functions/plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plug-in estão disponíveis para ser instalado nesse momento."
+
+#: functions/plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr "Não há plugins estão disponíveis para ser ativado no momento."
+
+#: functions/plugin-activation.php:1934
+msgid "Install package not available."
+msgstr "Instalar pacote não está disponível."
+
+#: functions/plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: functions/plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr "Descompactar o pacote & # 8230;"
+
+#: functions/plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr "Instalando o plugin & # 8230;"
+
+#: functions/plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr "Plugin instalação falhou."
+
+#: functions/plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr "Plugin instalado com sucesso."
+
+#: functions/plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr "Falha ativação Plugin."
+
+#: functions/plugin-activation.php:2064
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está começando. Este processo pode demorar um pouco em alguns hospedeiros, então por favor, seja paciente."
+
+#: functions/plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Show Details"
+msgstr "Mostrar Detalhes"
+
+#: functions/plugin-activation.php:2065 functions/plugin-activation.php:2074
+msgid "Hide Details"
+msgstr "Ocultar detalhes"
+
+#: functions/plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídos."
+
+#: functions/plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalar e ativar Plugin %1$s ( %2$d / %3$d )"
+
+#: functions/plugin-activation.php:2071
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está a começar. Este processo pode demorar um pouco em alguns hospedeiros, então por favor, seja paciente."
+
+#: functions/plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s : <strong> %2$s </ strong>."
+
+#: functions/plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação de %1$s falhou."
+
+#: functions/plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: functions/plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídos."
+
+#: functions/plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando o Plugin %1$s ( %2$d / %3$d )"
+
+#: functions/plugin-activation.php:2285
+msgid "Something went wrong with the plugin API."
+msgstr "Algo deu errado com a API do plugin."
+
+#: functions/plugin-activation.php:2298
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos os plugins instalado e ativado com sucesso. %s"
+
+#: functions/theme-actions.php:76
+msgid "Home"
+msgstr "Casa"
+
+#: functions/theme-actions.php:104
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todos os posts em %s"
+
+#: functions/theme-actions.php:111
+msgid "Tags: "
+msgstr "Tags: "
+
+#: functions/widget-ad125.php:33
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr "Um widget para 125 x 125 bloco de anúncios (max 6 anúncios)"
+
+#: functions/widget-ad125.php:44
+msgid "MyThemeShop: 125x125 Ads"
+msgstr "MyThemeShop: 125x125 Ads"
+
+#: functions/widget-ad125.php:202 functions/widget-ad300.php:118
+#: functions/widget-authorposts.php:41 functions/widget-catposts.php:42
+#: functions/widget-popular.php:43 functions/widget-postslider.php:32
+#: functions/widget-recentposts.php:41 functions/widget-relatedposts.php:41
+#: functions/widget-social.php:170
+msgid "Title:"
+msgstr "Título:"
+
+#: functions/widget-ad125.php:208
+msgid "Ad 1 image url:"
+msgstr "Ad imagem 1 url:"
+
+#: functions/widget-ad125.php:214
+msgid "Ad 1 link url:"
+msgstr "Ad 1 link url:"
+
+#: functions/widget-ad125.php:220
+msgid "Ad 2 image url:"
+msgstr "Ad imagem 2 url:"
+
+#: functions/widget-ad125.php:226
+msgid "Ad 2 link url:"
+msgstr "Ad 2 ligação url:"
+
+#: functions/widget-ad125.php:232
+msgid "Ad 3 image url:"
+msgstr "Ad imagem 3 url:"
+
+#: functions/widget-ad125.php:238
+msgid "Ad 3 link url:"
+msgstr "Ad 3 ligação url:"
+
+#: functions/widget-ad125.php:244
+msgid "Ad 4 image url:"
+msgstr "Ad imagem 4 url:"
+
+#: functions/widget-ad125.php:250
+msgid "Ad 4 link url:"
+msgstr "Ad 4 ligação url:"
+
+#: functions/widget-ad125.php:256
+msgid "Ad 5 image url:"
+msgstr "Ad imagem 5 url:"
+
+#: functions/widget-ad125.php:262
+msgid "Ad 5 link url:"
+msgstr "Ad 5 ligação url:"
+
+#: functions/widget-ad125.php:268
+msgid "Ad 6 image url:"
+msgstr "Ad imagem 6 url:"
+
+#: functions/widget-ad125.php:274
+msgid "Ad 6 link url:"
+msgstr "Ad 6 ligação url:"
+
+#: functions/widget-ad125.php:280
+msgid "Randomize ads order?"
+msgstr "Randomize fim anúncios?"
+
+#: functions/widget-ad300.php:33
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr "Um widget para 300 x 250 anúncio (Single banner)"
+
+#: functions/widget-ad300.php:44
+msgid "MyThemeShop: 300x250 Ad"
+msgstr "MyThemeShop: 300x250 Ad"
+
+#: functions/widget-ad300.php:124
+msgid "Ad image url:"
+msgstr "Ad imagem url:"
+
+#: functions/widget-ad300.php:130
+msgid "Ad link url:"
+msgstr "Ad ligação url:"
+
+#: functions/widget-authorposts.php:14
+msgid "MyThemeShop: Author Posts"
+msgstr "MyThemeShop: Autor Posts"
+
+#: functions/widget-authorposts.php:15
+msgid "Display other posts written by the author of the current post. Will appear on single posts only."
+msgstr "Mostrar outras mensagens escritas pelo autor do post atual. Aparece apenas mensagens individuais."
+
+#: functions/widget-authorposts.php:30
+msgid "Author Posts"
+msgstr "Autor Posts"
+
+#: functions/widget-authorposts.php:46 functions/widget-catposts.php:62
+#: functions/widget-popular.php:54 functions/widget-postslider.php:48
+#: functions/widget-recentposts.php:46 functions/widget-relatedposts.php:46
+msgid "Number of Posts to show"
+msgstr "Número de Posts para mostrar"
+
+#: functions/widget-authorposts.php:51 functions/widget-catposts.php:67
+#: functions/widget-popular.php:59 functions/widget-recentposts.php:51
+#: functions/widget-relatedposts.php:51
+msgid "Title Length:"
+msgstr "Título Duração:"
+
+#: functions/widget-authorposts.php:59 functions/widget-catposts.php:75
+#: functions/widget-popular.php:67 functions/widget-recentposts.php:59
+#: functions/widget-relatedposts.php:59
+msgid "Show Thumbnails"
+msgstr "Mostrar Miniaturas"
+
+#: functions/widget-authorposts.php:64 functions/widget-catposts.php:80
+#: functions/widget-popular.php:72 functions/widget-recentposts.php:64
+#: functions/widget-relatedposts.php:64
+msgid "Posts layout:"
+msgstr "Posts Layout:"
+
+#: functions/widget-authorposts.php:66 functions/widget-catposts.php:82
+#: functions/widget-popular.php:74 functions/widget-recentposts.php:66
+#: functions/widget-relatedposts.php:66
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: functions/widget-authorposts.php:67 functions/widget-catposts.php:83
+#: functions/widget-popular.php:75 functions/widget-recentposts.php:67
+#: functions/widget-relatedposts.php:67
+msgid "Vertical"
+msgstr "Vertical"
+
+#: functions/widget-authorposts.php:74 functions/widget-catposts.php:90
+#: functions/widget-popular.php:82 functions/widget-recentposts.php:74
+#: functions/widget-relatedposts.php:74
+msgid "Show post date"
+msgstr "Mostrar data pós"
+
+#: functions/widget-authorposts.php:81 functions/widget-catposts.php:97
+#: functions/widget-popular.php:89 functions/widget-recentposts.php:81
+#: functions/widget-relatedposts.php:81
+msgid "Show number of comments"
+msgstr "Mostrar número de comentários"
+
+#: functions/widget-authorposts.php:88 functions/widget-catposts.php:104
+#: functions/widget-popular.php:96 functions/widget-recentposts.php:88
+#: functions/widget-relatedposts.php:88
+msgid "Show excerpt"
+msgstr "Mostrar trecho"
+
+#: functions/widget-authorposts.php:93 functions/widget-catposts.php:109
+#: functions/widget-popular.php:101 functions/widget-recentposts.php:93
+#: functions/widget-relatedposts.php:93
+msgid "Excerpt Length:"
+msgstr "Trecho Duração:"
+
+#: functions/widget-authorposts.php:189 functions/widget-catposts.php:199
+#: functions/widget-popular.php:206 functions/widget-recentposts.php:181
+#: functions/widget-relatedposts.php:192
+msgid " ago"
+msgstr " atrás"
+
+#: functions/widget-catposts.php:14
+msgid "MyThemeShop: Category Posts"
+msgstr "MyThemeShop: Categoria Posts"
+
+#: functions/widget-catposts.php:15
+msgid "Display the most recent posts from a single category"
+msgstr "Mostrar as mensagens mais recentes de uma única categoria"
+
+#: functions/widget-catposts.php:30
+msgid "Featured Category"
+msgstr "Categoria Destaque"
+
+#: functions/widget-catposts.php:46 functions/widget-postslider.php:36
+msgid "Category:"
+msgstr "Categoria:"
+
+#: functions/widget-fblikebox.php:20
+msgid "Add Facebook Like Box."
+msgstr "Adicionar Facebook Like Box."
+
+#: functions/widget-fblikebox.php:24
+msgid "MyThemeShop: FB Like Box"
+msgstr "MyThemeShop: FB Como Box"
+
+#: functions/widget-fblikebox.php:82
+msgid "Find us on Facebook"
+msgstr "Encontre-nos no Facebook"
+
+#: functions/widget-fblikebox.php:91
+msgid "Facebook Page URL"
+msgstr "URL Facebook Page"
+
+#: functions/widget-fblikebox.php:96
+msgid "Width"
+msgstr "Largura"
+
+#: functions/widget-fblikebox.php:103
+msgid "light"
+msgstr "luz"
+
+#: functions/widget-fblikebox.php:104
+msgid "dark"
+msgstr "escuro"
+
+#: functions/widget-fblikebox.php:110
+msgid "Show faces"
+msgstr "Mostrar rostos"
+
+#: functions/widget-fblikebox.php:115
+msgid "Show stream"
+msgstr "Mostrar córrego"
+
+#: functions/widget-fblikebox.php:120
+msgid "Show facebook header"
+msgstr "Mostrar cabeçalho facebook"
+
+#: functions/widget-popular.php:14
+msgid "MyThemeShop: Popular Posts"
+msgstr "MyThemeShop: Posts Populares"
+
+#: functions/widget-popular.php:15
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "Exibe posts mais populares com miniaturas."
+
+#: functions/widget-popular.php:31
+msgid "Popular Posts"
+msgstr "Posts mais populares"
+
+#: functions/widget-popular.php:48
+msgid "Popular limit (days):"
+msgstr "Populares limite (dias):"
+
+#: functions/widget-postslider.php:15
+msgid "MyThemeShop: Post Slider"
+msgstr "MyThemeShop: Post Slider"
+
+#: functions/widget-postslider.php:16
+msgid "Display posts from multiple categories in an animated slider."
+msgstr "Mostrar os tópicos várias categorias em um controle deslizante animado."
+
+#: functions/widget-postslider.php:22
+msgid "Featured Posts"
+msgstr "Posts em Destaque"
+
+#: functions/widget-postslider.php:55
+msgid "Show Title"
+msgstr "Show Title"
+
+#: functions/widget-recentposts.php:14
+msgid "MyThemeShop: Recent Posts"
+msgstr "MyThemeShop: Mensagens recentes"
+
+#: functions/widget-recentposts.php:15
+msgid "Display the most recent posts from all categories"
+msgstr "Mostrar as mensagens mais recentes de todas as categorias"
+
+#: functions/widget-recentposts.php:30
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: functions/widget-relatedposts.php:14
+msgid "MyThemeShop: Related Posts"
+msgstr "MyThemeShop: Posts relacionados"
+
+#: functions/widget-relatedposts.php:15
+msgid "Display the related posts from current post's categories. Will appear on single posts only."
+msgstr "Mostrar os posts relacionados de categorias do post atual. Aparece apenas mensagens individuais."
+
+#: functions/widget-social.php:58
+msgid "Facebook URI"
+msgstr "Facebook URI"
+
+#: functions/widget-social.php:62
+msgid "Behance URI"
+msgstr "Behance URI"
+
+#: functions/widget-social.php:66
+msgid "Flickr URI"
+msgstr "Flickr URI"
+
+#: functions/widget-social.php:70
+msgid "Google+ URI"
+msgstr "Google+ URI"
+
+#: functions/widget-social.php:74
+msgid "Pinterest URI"
+msgstr "Pinterest URI"
+
+#: functions/widget-social.php:78
+msgid "Instagram URI"
+msgstr "Instagram URI"
+
+#: functions/widget-social.php:82
+msgid "Dribbble URI"
+msgstr "Dribbble URI"
+
+#: functions/widget-social.php:86
+msgid "Linkedin URI"
+msgstr "Linkedin URI"
+
+#: functions/widget-social.php:90
+msgid "Soundcloud URI"
+msgstr "Soundcloud URI"
+
+#: functions/widget-social.php:94
+msgid "Twitter URI"
+msgstr "Twitter URI"
+
+#: functions/widget-social.php:98
+msgid "Vimeo URI"
+msgstr "Vimeo URI"
+
+#: functions/widget-social.php:102
+msgid "StumbleUpon URI"
+msgstr "StumbleUpon URI"
+
+#: functions/widget-social.php:106
+msgid "Tumblr URI"
+msgstr "Tumblr URI"
+
+#: functions/widget-social.php:110
+msgid "GitHub URI"
+msgstr "GitHub URI"
+
+#: functions/widget-social.php:114
+msgid "YouTube URI"
+msgstr "URI YouTube"
+
+#: functions/widget-social.php:118
+msgid "FourSquare URI"
+msgstr "FourSquare URI"
+
+#: functions/widget-social.php:122
+msgid "Reddit URI"
+msgstr "Reddit URI"
+
+#: functions/widget-social.php:126
+msgid "Dropbox URI"
+msgstr "Dropbox URI"
+
+#: functions/widget-social.php:130
+msgid "Skype URI"
+msgstr "URI Skype"
+
+#: functions/widget-social.php:134
+msgid "Email URI"
+msgstr "Email URI"
+
+#: functions/widget-social.php:138
+msgid "RSS URI"
+msgstr "RSS URI"
+
+#: functions/widget-social.php:145
+msgid "Show profile icons."
+msgstr "Mostrar ícones de perfil."
+
+#: functions/widget-social.php:154
+msgid "MyThemeShop: Social Profile Icons"
+msgstr "MyThemeShop: perfil social Icons"
+
+#: functions/widget-tweets.php:13
+msgid "A widget for showing latest tweets in sidebar"
+msgstr "Um widget para mostrar últimos tweets em barra lateral"
+
+#: functions/widget-tweets.php:119
+msgid "API Key"
+msgstr "Key API"
+
+#: functions/widget-tweets.php:119
+msgid "API Secret"
+msgstr "API Segredo"
+
+#: functions/widget-tweets.php:119
+msgid "Access Token"
+msgstr "Token de Acesso"
+
+#: functions/widget-tweets.php:120
+msgid "Access Token Secret"
+msgstr "Acesso token secreto"
+
+#: functions/widget-tweets.php:120
+msgid "Cache Tweets in every"
+msgstr "Tweets de cache em cada"
+
+#: functions/widget-tweets.php:121
+msgid "Number of tweets (max 20)"
+msgstr "Número de tweets (max 20)"
+
+#: options/options.php:56 options/options.php:58
+msgid "Options"
+msgstr "Opções"
+
+#: options/options.php:274
+msgid "Are you sure you want to reset ALL options to default (except theme translation)?"
+msgstr "Tem certeza de que deseja redefinir todas as opções para o padrão (exceto tema tradução)?"
+
+#: options/options.php:275
+msgid "Are you sure you want to reset translations? You will lose all translations."
+msgstr "Tem certeza de que deseja redefinir traduções? Você perderá todas as traduções."
+
+#: options/options.php:276
+msgid "Are you sure you want to import options? All current options will be lost."
+msgstr "Tem certeza de que deseja importar opções? Todas as opções atuais serão perdidas."
+
+#: options/options.php:277
+msgid "Settings have changed, you should save them! Are you sure you want to leave this page?"
+msgstr "As configurações foram alteradas, você deve salvá-los! Tem certeza de que deseja sair desta página?"
+
+#: options/options.php:664
+msgid "<strong>Settings Imported!</strong>"
+msgstr "<strong> Configurações Importado! </ strong>"
+
+#: options/options.php:666
+msgid "<strong>Settings Saved!</strong>"
+msgstr "<Strong> Configurações Saved! </ Strong>"
+
+#: options/options.php:670
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr "<Strong> Configurações mudaram, você deve salvá-los! </ Strong>"
+
+#: options/options.php:671
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr "<Strong> <span> </ span> de erro (s) foram encontrados! </ Strong>"
+
+#: options/options.php:673
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr "<Strong> <span> </ span> de aviso (s) foram encontrados! </ Strong>"
+
+#: options/options.php:695
+msgid "Typography"
+msgstr "Tipografia"
+
+#: options/options.php:703
+msgid "Translate"
+msgstr "Traduzir"
+
+#: options/options.php:711
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: options/options.php:726 options/options.php:871
+msgid "Dev Mode Info"
+msgstr "Dev Modo de Informações"
+
+#: options/options.php:744
+msgid "Import / Export Options"
+msgstr "Import / Export Options"
+
+#: options/options.php:748
+msgid "Preset Options"
+msgstr "Opções de predefinição"
+
+#: options/options.php:759
+msgid "Demo"
+msgstr "Programa demonstrativo"
+
+#: options/options.php:761 options/options.php:787
+msgid "Import"
+msgstr "Importação"
+
+#: options/options.php:771
+msgid "Import Options"
+msgstr "Opções de importação"
+
+#: options/options.php:779
+msgid "Insert your backup code below and hit Import to restore your site options from a backup."
+msgstr "Insira seu código de backup abaixo e clique em Importar para restaurar as opções do site a partir de um backup."
+
+#: options/options.php:795
+msgid "Export Options"
+msgstr "Opções de exportação"
+
+#: options/options.php:800
+msgid "Show Export Code"
+msgstr "Show Code Export"
+
+#: options/options.php:835
+msgid "Theme Translation Panel"
+msgstr "Painel Tradução Tema"
+
+#: options/options.php:837
+msgid "The theme translation panel provides an easy way to translate text appearing on your site, without the hassle of handling .po .mo files. Translations are saved instantly after typing in."
+msgstr "O painel tema tradução fornece uma maneira fácil de traduzir o texto que aparece em seu site, sem a necessidade de lidar com arquivos .po .mo. As traduções são salvos imediatamente depois de digitar."
+
+#: options/options.php:838
+msgid "Reset translations"
+msgstr "Repor traduções"
+
+#: options/options.php:847
+msgid "Enable translation panel"
+msgstr "Ativar painel tradução"
+
+#: options/options.php:851
+msgid "Search Translations"
+msgstr "Pesquisa Traduções"
+
+#: options/options.php:898
+msgid "Reset to Defaults"
+msgstr "Redefinir padrões"
+
+#: options/options.php:899
+msgid "Save Changes"
+msgstr "Salvar alterações"
+
+#: options/options.php:1123
+#, php-format
+msgid "Translated <span class=\"translated\">%1$d</span> strings out of <span class=\"total\">%2$d</span> <span class=\"percent\">(%3$.2f%%)</span>"
+msgstr "Translated <span class=\"translated\">%1$d</span> strings out of <span class=\"total\">%2$d</span> <span class=\"percent\">(%3$.2f%%)</span>"
+
+#: options/fields/cats_multi_select/field_cats_multi_select.php:33
+msgid "Select categories"
+msgstr "Escolha as categorias"
+
+#: options/fields/cats_multi_select/field_cats_multi_select.php:46
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+#: options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr "A partir de:"
+
+#: options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr " Para:"
+
+#: options/fields/group/field_group.php:41
+msgid "New"
+msgstr "Novo"
+
+#: options/fields/group/field_group.php:55
+msgid "New "
+msgstr "Novo "
+
+#: options/fields/group/field_group.php:116
+#: options/fields/group/field_group.php:191
+msgid "OK"
+msgstr "ESTÁ BEM"
+
+#: options/fields/group/field_group.php:117
+#: options/fields/group/field_group.php:192
+#: options/google-typography/google-typography.php:307
+msgid "Delete"
+msgstr "Excluir"
+
+#: options/fields/group/field_group.php:197
+msgid "Add"
+msgstr "Adicionar"
+
+#: options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr "Adicionar mais"
+
+#: options/fields/sidebars_select/field_sidebars_select.php:53
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: options/fields/upload/field_upload.php:41
+msgid "Browse"
+msgstr "Procurar"
+
+#: options/fields/upload/field_upload.php:42
+msgid "Remove Upload"
+msgstr "Remover Carregar"
+
+#: options/google-typography/google-typography.php:139
+msgid "Adding A Collection"
+msgstr "Adicionar uma coleção"
+
+#: options/google-typography/google-typography.php:140
+msgid "To add a new font for use on your site. Click the \"Add New\" button on the top left of the page near the \"Google Typography\" title."
+msgstr "To add a new font for use on your site. Click the \"Add New\" button on the top left of the page near the \"Google Typography\" title."
+
+#: options/google-typography/google-typography.php:141
+msgid "Once added, a new font row will appear on the page below. Next you can continue to customize your font (more info in the \"Customizing\" help tab)."
+msgstr "Once added, a new font row will appear on the page below. Next you can continue to customize your font (more info in the \"Customizing\" help tab)."
+
+#: options/google-typography/google-typography.php:143
+msgid "Customizing"
+msgstr "Personalizando"
+
+#: options/google-typography/google-typography.php:144
+msgid "Customizing fonts is easy; after adding a new font row you can then customize the following font attributes:"
+msgstr "Personalizando fontes é fácil; após a adição de uma nova linha de fonte que você poderá então personalizar os seguintes atributos da fonte:"
+
+#: options/google-typography/google-typography.php:145
+msgid "Preview Text"
+msgstr "Visualizar Texto"
+
+#: options/google-typography/google-typography.php:145
+msgid "Used for live previewing your changes. This text does not appear anywhere on your website."
+msgstr "Usado para a pré-visualização ao vivo as suas alterações. Este texto não aparece em qualquer lugar em seu site."
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Family"
+msgstr "Família de fontes"
+
+#: options/google-typography/google-typography.php:145
+msgid "The font family to use for this font. Choose from a real-time list of all available Google Fonts."
+msgstr "A família de fonte a ser usado para este tipo de letra. Escolha a partir de uma lista em tempo real de todas as fontes disponíveis do Google."
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Variant"
+msgstr "Font Variant"
+
+#: options/google-typography/google-typography.php:145
+msgid "The variant to use for this font. Note: Each font has it's own variant options."
+msgstr "A variante a ser usado para este tipo de letra. Nota: Cada fonte tem as suas próprias opções de variantes."
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Size"
+msgstr "Tamanho da Fonte"
+
+#: options/google-typography/google-typography.php:145
+msgid "The size you would like this font to be."
+msgstr "O tamanho que você gostaria que este tipo de letra a ser."
+
+#: options/google-typography/google-typography.php:145
+msgid "Font Color"
+msgstr "Cor da Fonte"
+
+#: options/google-typography/google-typography.php:145
+msgid "The color you'd like to use for this font."
+msgstr "A cor que você gostaria de usar para esta fonte."
+
+#: options/google-typography/google-typography.php:145
+#: options/google-typography/google-typography.php:146
+msgid "CSS Selectors"
+msgstr "Seletores CSS"
+
+#: options/google-typography/google-typography.php:145
+msgid "The HTML tags or CSS selectors you'd like this font to apply to (more info in the \"CSS Selectors\" help tab). You can specify multiple selectors separated by comma's. Ex: h1, #some_id, .some_class"
+msgstr "The HTML tags or CSS selectors you'd like this font to apply to (more info in the \"CSS Selectors\" help tab). You can specify multiple selectors separated by comma's. Ex: h1, #some_id, .some_class"
+
+#: options/google-typography/google-typography.php:147
+msgid "CSS Selectors are used to hook your font rows into your actual website. Once you've added, customized, and defined CSS selectors for your fonts, Google Typography will automatically insert all the necessary CSS into your website."
+msgstr "Seletores CSS são usados ​​para ligar os seus linhas de fonte em seu site real. Uma vez que você adicionou, personalizado, e definiu seletores CSS para suas fontes, o Google Tipografia irá inserir automaticamente todo o CSS necessárias em seu site."
+
+#: options/google-typography/google-typography.php:148
+msgid "Here are some examples of the selectors you can use:"
+msgstr "Aqui estão alguns exemplos dos seletores que você pode usar:"
+
+#: options/google-typography/google-typography.php:149
+msgid "IDs"
+msgstr "IDs"
+
+#: options/google-typography/google-typography.php:149
+msgid "#selector"
+msgstr "#selector"
+
+#: options/google-typography/google-typography.php:149
+msgid "Classes:"
+msgstr "Classes:"
+
+#: options/google-typography/google-typography.php:149
+msgid ".selector"
+msgstr ".Chave seletora"
+
+#: options/google-typography/google-typography.php:149
+msgid "HTML Tags"
+msgstr "HTML tags"
+
+#: options/google-typography/google-typography.php:149
+msgid "span"
+msgstr "palmo"
+
+#: options/google-typography/google-typography.php:150
+msgid "Example"
+msgstr "Exemplo"
+
+#: options/google-typography/google-typography.php:150
+msgid "#selector span.date"
+msgstr "#selector span.date"
+
+#: options/google-typography/google-typography.php:178
+msgid "Settings"
+msgstr "Definições"
+
+#: options/google-typography/google-typography.php:291
+#: options/google-typography/google-typography.php:310
+msgid "Theme Typography"
+msgstr "Tema Tipografia"
+
+#: options/google-typography/google-typography.php:292
+msgid "Loading Your Collections"
+msgstr "Carregando suas coleções"
+
+#: options/google-typography/google-typography.php:293
+msgid "Add New Collection"
+msgstr "Adicionar nova coleção"
+
+#: options/google-typography/google-typography.php:294
+msgid "Reset Collections"
+msgstr "Repor Colecções"
+
+#: options/google-typography/google-typography.php:295
+msgid "Type in some text to preview..."
+msgstr "Digite algum texto para visualizar ..."
+
+#: options/google-typography/google-typography.php:296
+msgid "New Collection"
+msgstr "Nova coleção"
+
+#: options/google-typography/google-typography.php:298
+msgid "Preview Background Color"
+msgstr "Prévia Cor de Fundo"
+
+#: options/google-typography/google-typography.php:300
+msgid "Standard Fonts"
+msgstr "Fontes Padrão"
+
+#: options/google-typography/google-typography.php:301
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: options/google-typography/google-typography.php:302
+msgid "Variant..."
+msgstr "Variant ..."
+
+#: options/google-typography/google-typography.php:303
+msgid "Size..."
+msgstr "Tamanho ..."
+
+#: options/google-typography/google-typography.php:304
+msgid "Backup font:"
+msgstr "Font Backup:"
+
+#: options/google-typography/google-typography.php:305
+msgid "CSS Selectors:"
+msgstr "Seletores CSS:"
+
+#: options/google-typography/google-typography.php:306
+msgid "Additional CSS:"
+msgstr "CSS adicionais:"
+
+#: options/google-typography/google-typography.php:308
+msgid "Save"
+msgstr "Salvar"
+
+#: options/google-typography/google-typography.php:311
+msgid "Get started in 3 steps."
+msgstr "Comece em 3 etapas."
+
+#: options/google-typography/google-typography.php:312
+msgid "1. Pick A Font"
+msgstr "1. Escolha um tipo de letra"
+
+#: options/google-typography/google-typography.php:313
+msgid "Choose from any of the 600+ Google Fonts."
+msgstr "Escolha a partir de qualquer um dos 600 + Google Fonts."
+
+#: options/google-typography/google-typography.php:314
+msgid "2. Customize It"
+msgstr "2. personaliza-"
+
+#: options/google-typography/google-typography.php:315
+msgid "Pick a size, variant, color and more."
+msgstr "Escolha um tamanho, uma variante, cor e muito mais."
+
+#: options/google-typography/google-typography.php:316
+msgid "3. Attach It"
+msgstr "3. Conecte-se"
+
+#: options/google-typography/google-typography.php:317
+msgid "Attach your font to any CSS selector(s)."
+msgstr "Junte a sua fonte para qualquer selector (s) CSS."
+
+#: options/google-typography/google-typography.php:321
+msgid "Character sets"
+msgstr "Os conjuntos de caracteres"
+
+#: options/google-typography/google-typography.php:322
+msgid "Choose the character sets you wish to include. Please note that not all sets are available for all fonts."
+msgstr "Escolha o personagem define que deseja incluir. Por favor, note que nem todos os jogos estão disponíveis para todas as fontes."
+
+#: options/google-typography/google-typography.php:328
+msgid "Latin"
+msgstr "Latino"
+
+#: options/google-typography/google-typography.php:329
+msgid "Latin Extended"
+msgstr "Latim estendido"
+
+#: options/google-typography/google-typography.php:330
+msgid "Cyrillic"
+msgstr "Cirílico"
+
+#: options/google-typography/google-typography.php:331
+msgid "Cyrillic Extended"
+msgstr "Cirílico Estendida"
+
+#: options/google-typography/google-typography.php:332
+msgid "Greek"
+msgstr "Grego"
+
+#: options/google-typography/google-typography.php:333
+msgid "Greek Extended"
+msgstr "Grego estendido"
+
+#: options/google-typography/google-typography.php:334
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: options/google-typography/google-typography.php:335
+msgid "Khmer"
+msgstr "Khmer"
+
+#: options/google-typography/google-typography.php:336
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: options/google-typography/google-typography.php:1012
+msgid "Are you sure you want to revert to the theme's default collections? Note: You will lose any custom collections you've created."
+msgstr "Tem certeza de que deseja reverter para coleções padrão do tema? Nota: Você vai perder nenhum coleções personalizadas que você criou."
+
+#: options/google-typography/google-typography.php:1013
+msgid "Are you sure you want to delete this collection?"
+msgstr "Tem certeza de que deseja excluir esta coleção?"
+
+#: options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr "Este campo deve ser um valor de cor válido."
+
+#: options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr "Você deve fornecer uma lista separada por vírgula de valores numéricos para esta opção."
+
+#: options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr "Este campo deve ser uma data válida."
+
+#: options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr "Você deve fornecer um email válido para esta opção."
+
+#: options/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "Você não deve entrar em qualquer HTML neste campo, todas as tags HTML foram removidos."
+
+#: options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr "Você não deve digitar os caracteres especiais neste campo, todos os caracteres especiais foram removidos."
+
+#: options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr "Você deve fornecer um valor numérico para esta opção."
+
+#: options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr "Você deve fornecer uma URL válida para esta opção."
+
+#: post-format/format-audio.php:7 post-format/format-video.php:7
+msgid "Please add valid embed Code."
+msgstr "Por favor, adicione código de incorporação válido."

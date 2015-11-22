@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BuddyPress Edit Activity-pt_BR\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-11-07 15:16-0300\n"
+"Last-Translator: BuddyBoss <support@buddyboss.com>\n"
+"Language-Team: Braising <wordpress@braising.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"Language: pt_BR\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ buddypress-edit-activity
+#: buddypress-edit-activity.php:74
+#, php-format
+msgid "Couldn't load main class at:<br/>%s"
+msgstr "Não foi possível carregar a classe principal em:<br>%s"
+
+# @ buddypress-edit-activity
+#: buddypress-edit-activity.php:80
+#, php-format
+msgid "<h1>Fatal error:</h1><hr/><pre>%s</pre>"
+msgstr "<h1>Erro fatal:</h1><hr/><pre>%s</pre>"
+
+# @ default
+#: includes/admin.php:189
+msgid "Save Changes"
+msgstr "Salvar"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:219
+msgid "Admin only"
+msgstr "Apenas admin"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:220
+msgid "Admin and user who created the post"
+msgstr "Admin e o usuário que criou o post"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:238
+msgid "Activity Posts"
+msgstr "Posts no mural"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:239
+msgid "Activity Replies"
+msgstr "Respostas na Atividade"
+
+# @ buddyboss-media
+#: includes/main-class.php:86 includes/main-class.php:88
+msgid "Cheatin&#8217; huh?"
+msgstr "Trapaceando hein?"
+
+# @ buddypress-edit-activity
+# @ buddyboss-edit-activity
+#: includes/main-class.php:222 includes/main-class.php:275
+#: includes/main-class.php:287
+msgid "Edit"
+msgstr "Editar"
+
+# @ buddypress-edit-activity
+#: includes/main-class.php:223
+msgid "Save"
+msgstr "Salvar"
+
+# @ buddypress-edit-activity
+#: includes/main-class.php:359
+msgid "Nothing found!"
+msgstr "Nada Foi Encontrado"
+
+# @ buddypress-edit-activity
+#: includes/main-class.php:404
+msgid "Error!"
+msgstr "Erro!"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:142
+msgid "Front-end Editing Settings"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:144
+msgid "Who can edit activity"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:145
+msgid "Editable on front-end"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:146
+msgid "Disallow editing after"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:173
+msgid "Buddypress Edit Activity"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:175
+msgid "Need BuddyPress customizations?"
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:175
+msgid "Say hello."
+msgstr "Diga Olá."
+
+# @ buddypress-edit-activity
+#: includes/admin.php:254
+msgid " minutes"
+msgstr "minutos"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:255
+msgid "Leave at 0 to set no time limit "
+msgstr "Deixe em 0 para definir sem limite de tempo"
+
+# @ buddypress-edit-activity
+#: includes/admin.php:264
+msgid "Exclude admins from time limit."
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:181
+msgid "Settings updated."
+msgstr ""
+
+# @ buddypress-edit-activity
+#: includes/admin.php:274
+msgid "Settings"
+msgstr "Definições"
+
+# @ buddypress-edit-activity
+#: includes/main-class.php:224
+msgid "Cancel"
+msgstr "Cancelar"
